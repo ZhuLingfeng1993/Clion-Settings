@@ -1,0 +1,55 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/layers/annotated_data_layer.cpp" timestamp="1550564175464">
+        <mark key="'" line="242" column="8" />
+        <mark key="[" line="319" column="13" />
+        <mark key="]" line="319" column="13" />
+        <mark key="^" line="319" column="13" />
+        <mark key="." line="319" column="13" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="157" column="4" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/layers/annotated_data_layer.cpp" />
+      <jump line="243" column="6" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/layers/annotated_data_layer.cpp" />
+      <jump line="285" column="31" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/layers/annotated_data_layer.cpp" />
+      <jump line="286" column="10" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/layers/annotated_data_layer.cpp" />
+      <jump line="148" column="37" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/layers/annotated_data_layer.cpp" />
+      <jump line="242" column="8" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/layers/annotated_data_layer.cpp" />
+    </jumps>
+    <registers>
+      <register name="/" type="4">
+        <text>all_anno</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>all_anno</last-search>
+      <last-offset />
+      <last-pattern>all_anno</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>QUA</entry>
+        <entry>all_anno</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
