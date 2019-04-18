@@ -19,4 +19,7 @@
   <action id="Vcs.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="ctrl alt back_quote" />
   </action>
+  <action id="Vcs.Show.Local.Changes">
+    <keyboard-shortcut first-keystroke="shift d" />
+  </action>
 </keymap>
