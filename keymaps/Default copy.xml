@@ -20,6 +20,6 @@
     <keyboard-shortcut first-keystroke="ctrl alt back_quote" />
   </action>
   <action id="Vcs.Show.Local.Changes">
-    <keyboard-shortcut first-keystroke="shift d" />
+    <keyboard-shortcut first-keystroke="alt g" />
   </action>
 </keymap>
