@@ -22,4 +22,7 @@
   <action id="Vcs.Show.Local.Changes">
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
+  <action id="VimPluginToggle">
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
 </keymap>
