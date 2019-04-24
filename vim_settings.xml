@@ -3,6 +3,13 @@
     <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/layers/detection_evaluate_layer.cpp" timestamp="1556075899045">
+        <mark key="'" line="233" column="65" />
+        <mark key="[" line="224" column="29" />
+        <mark key="]" line="224" column="26" />
+        <mark key="." line="224" column="26" />
+        <mark key="^" line="224" column="26" />
+      </file>
       <file name="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/layers/annotated_data_layer.cpp" timestamp="1550564175464">
         <mark key="'" line="242" column="8" />
         <mark key="[" line="319" column="13" />
@@ -18,8 +25,18 @@
       <jump line="286" column="10" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/layers/annotated_data_layer.cpp" />
       <jump line="148" column="37" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/layers/annotated_data_layer.cpp" />
       <jump line="242" column="8" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/layers/annotated_data_layer.cpp" />
+      <jump line="233" column="65" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/layers/detection_evaluate_layer.cpp" />
     </jumps>
     <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE5vcm1hbGl6ZWRCQm94Xwo=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZmxvYXQg</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">ZmxvYXQg</text>
+      </register>
       <register name="/" type="4">
         <text>all_anno</text>
       </register>
@@ -49,6 +66,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
