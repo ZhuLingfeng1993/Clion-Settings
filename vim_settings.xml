@@ -1,8 +1,15 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" timestamp="1556504178649">
+        <mark key="]" line="752" column="50" />
+        <mark key="^" line="725" column="3" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1556504241824">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/layers/detection_evaluate_layer.cpp" timestamp="1556075899045">
         <mark key="'" line="233" column="65" />
         <mark key="[" line="224" column="29" />
@@ -28,14 +35,29 @@
       <jump line="233" column="65" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/layers/detection_evaluate_layer.cpp" />
     </jumps>
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGRldF9ldmFsX3BhcmFtLnBvcCgnYW5ub190eXBlJykK</text>
+      </register>
       <register name="1" type="2">
+        <text encoding="base64">aWYgU1dJVENIRVMub3JpZ2luX3NzZDoKICAgIGRldF9ldmFsX3BhcmFtLnBvcCgnYW5ub190eXBlJykKICAgIGRldF9ldmFsX3BhcmFtLnBvcCgndXNlX2VudmVsb3BlX3RvX2V2YWx1YXRlJykK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aWYgU1dJVENIRVMub3JpZ2luX3NzZDoKICAgIGRldF9ldmFsX3BhcmFtLnBvcCgnYW5ub190eXBlJykKICAgIGRldF9ldmFsX3BhcmFtLnBvcCgndXNlX2VudmVsb3BlX3RvX2V2YWx1YXRlJykK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aWYgU1dJVENIRVMub3JpZ2luX3NzZDoKICAgIGRldF9vdXRfcGFyYW0ucG9wKCdhbm5vX3R5cGUnKQogICAgZGV0X291dF9wYXJhbS5wb3AoJ3VzZV9lbnZlbG9wZV9mb3Jfbm1zJykKICAgIGRldF9vdXRfcGFyYW0ucG9wKCdhcHBseV9ucHMnKQo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIE5vcm1hbGl6ZWRCQm94Xwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZmxvYXQg</text>
-      </register>
       <register name="-" type="4">
-        <text encoding="base64">ZmxvYXQg</text>
+        <text>anno_type</text>
       </register>
       <register name="/" type="4">
         <text>all_anno</text>
@@ -69,6 +91,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
