@@ -1,18 +1,25 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" timestamp="1556505556108">
-        <mark key="[" line="63" column="24" />
-        <mark key="]" line="64" column="12" />
-        <mark key="^" line="64" column="12" />
-        <mark key="." line="64" column="12" />
+      <file name="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" timestamp="1556508325468">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="65" column="22" />
+        <mark key="]" line="65" column="27" />
+        <mark key="^" line="65" column="27" />
+        <mark key="." line="65" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556505474546">
+      <file name="/Dummy.txt" timestamp="1556508379958">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/temp_gen.py" timestamp="1556505256441" />
+      <file name="$USER_HOME$/Projects/data_scripts_and_docs/scripts/count_label_category_from_list_file.py" timestamp="1556518041007">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="40" column="21" />
+        <mark key="]" line="42" column="17" />
+        <mark key="." line="42" column="17" />
+        <mark key="^" line="42" column="17" />
+      </file>
       <file name="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/layers/detection_evaluate_layer.cpp" timestamp="1556075899045">
         <mark key="'" line="233" column="65" />
         <mark key="[" line="224" column="29" />
@@ -27,6 +34,11 @@
         <mark key="^" line="319" column="13" />
         <mark key="." line="319" column="13" />
       </file>
+      <file name="$USER_HOME$/Projects/data_scripts_and_docs/scripts/count_label_category_and_check_label.py" timestamp="1556517272349">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="157" column="4" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/layers/annotated_data_layer.cpp" />
@@ -36,40 +48,55 @@
       <jump line="148" column="37" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/layers/annotated_data_layer.cpp" />
       <jump line="242" column="8" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/layers/annotated_data_layer.cpp" />
       <jump line="233" column="65" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/layers/detection_evaluate_layer.cpp" />
+      <jump line="591" column="0" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/Projects/data_scripts_and_docs/scripts/count_label_category_from_list_file.py" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGRldF9ldmFsX3BhcmFtLnBvcCgnYW5ub190eXBlJykK</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">aWYgU1dJVENIRVMub3JpZ2luX3NzZDoKICAgIGRldF9ldmFsX3BhcmFtLnBvcCgnYW5ub190eXBlJykKICAgIGRldF9ldmFsX3BhcmFtLnBvcCgndXNlX2VudmVsb3BlX3RvX2V2YWx1YXRlJykK</text>
-      </register>
       <register name="&quot;" type="4">
-        <text>T</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aWYgU1dJVENIRVMub3JpZ2luX3NzZDoKICAgIGRldF9vdXRfcGFyYW0ucG9wKCdhbm5vX3R5cGUnKQogICAgZGV0X291dF9wYXJhbS5wb3AoJ3VzZV9lbnZlbG9wZV9mb3Jfbm1zJykKICAgIGRldF9vdXRfcGFyYW0ucG9wKCdhcHBseV9ucHMnKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE5vcm1hbGl6ZWRCQm94Xwo=</text>
+        <text encoding="base64">ZmlsZV9wYXRoIA==</text>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text>all_anno</text>
+        <text>w</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">ZmlsZV9wYXRoIA==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZGlyZWN0b3J5Lgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CiMgY29kaW5nOnV0Zi04</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aWYgU1dJVENIRVMub3JpZ2luX3NzZDoKICAgIGRldF9ldmFsX3BhcmFtLnBvcCgnYW5ub190eXBlJykKICAgIGRldF9ldmFsX3BhcmFtLnBvcCgndXNlX2VudmVsb3BlX3RvX2V2YWx1YXRlJykK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>all_anno</last-search>
+      <last-search>w</last-search>
       <last-offset />
-      <last-pattern>all_anno</last-pattern>
+      <last-pattern>w</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -77,6 +104,8 @@
       <history-search>
         <entry>QUA</entry>
         <entry>all_anno</entry>
+        <entry>gen_ssd</entry>
+        <entry>w</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -97,6 +126,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
