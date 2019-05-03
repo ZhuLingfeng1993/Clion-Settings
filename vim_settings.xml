@@ -3,15 +3,16 @@
     <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" timestamp="1556508325468">
+      <file name="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" timestamp="1556862285760">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="65" column="22" />
-        <mark key="]" line="65" column="27" />
-        <mark key="^" line="65" column="27" />
-        <mark key="." line="65" column="27" />
+        <mark key="[" line="938" column="2" />
+        <mark key="]" line="1159" column="33" />
+        <mark key="." line="1159" column="33" />
+        <mark key="^" line="1160" column="59" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556508379958">
+      <file name="/Dummy.txt" timestamp="1556862358438">
         <mark key="[" line="0" column="0" />
+        <mark key="." line="0" column="60" />
       </file>
       <file name="$USER_HOME$/Projects/data_scripts_and_docs/scripts/count_label_category_from_list_file.py" timestamp="1556518711344">
         <mark key="'" line="14" column="0" />
@@ -27,7 +28,6 @@
         <mark key="." line="224" column="26" />
         <mark key="^" line="224" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/Curve-Text-Detector/lib/datasets/text.py" timestamp="1556518281823" />
       <file name="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/layers/annotated_data_layer.cpp" timestamp="1550564175464">
         <mark key="'" line="242" column="8" />
         <mark key="[" line="319" column="13" />
@@ -54,44 +54,44 @@
       <jump line="14" column="0" filename="$USER_HOME$/Projects/data_scripts_and_docs/scripts/count_label_category_from_list_file.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQoZmlsZV9uYW1lc1swXS5zdHJpcCgpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>b</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text>w</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ZmlsZV9wYXRoIA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBmLndyaXRlKCdjcCAtLXBhcmVudCAtaXYge30ge30gXG4nLmZvcm1hdChESVJTLmpvYiwgIiRERVNUX0RJUiIpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQoZmlsZV9uYW1lc1swXS5zdHJpcCgpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmLndyaXRlKCchL2Jpbi9iYXNoIFxuJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">cHJpbnQoZmlsZV9uYW1lc1swXS5zdHJpcCgpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGlyZWN0b3J5Lgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiMgY29kaW5nOnV0Zi04</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
+        <text encoding="base64">ZGlyZWN0b3J5Lgo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="4">
+        <text encoding="base64">CiMgY29kaW5nOnV0Zi04</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">aWYgU1dJVENIRVMub3JpZ2luX3NzZDoKICAgIGRldF9ldmFsX3BhcmFtLnBvcCgnYW5ub190eXBlJykKICAgIGRldF9ldmFsX3BhcmFtLnBvcCgndXNlX2VudmVsb3BlX3RvX2V2YWx1YXRlJykK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
     </registers>
     <search>
@@ -136,6 +136,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
