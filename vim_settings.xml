@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" timestamp="1556862285760">
@@ -29,7 +29,7 @@
         <mark key="^" line="224" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/caffe-q-ssd/include/caffe/util/bbox_util.hpp" timestamp="1557022774165">
-        <mark key="'" line="653" column="38" />
+        <mark key="'" line="652" column="38" />
         <mark key="[" line="626" column="19" />
         <mark key="]" line="630" column="78" />
         <mark key="." line="630" column="78" />
@@ -42,11 +42,11 @@
         <mark key="^" line="319" column="13" />
         <mark key="." line="319" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/util/bbox_util.cpp" timestamp="1557023492015">
-        <mark key="[" line="3343" column="17" />
-        <mark key="]" line="3343" column="17" />
-        <mark key="." line="3343" column="17" />
-        <mark key="^" line="3343" column="17" />
+      <file name="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/util/bbox_util.cpp" timestamp="1557025181272">
+        <mark key="[" line="3341" column="33" />
+        <mark key="]" line="3341" column="55" />
+        <mark key="." line="3341" column="55" />
+        <mark key="^" line="3341" column="55" />
       </file>
       <file name="$USER_HOME$/Projects/data_scripts_and_docs/scripts/count_label_category_and_check_label.py" timestamp="1556517272349">
         <mark key="[" line="5" column="0" />
@@ -69,11 +69,11 @@
       <jump line="653" column="38" filename="$USER_HOME$/Projects/caffe-q-ssd/include/caffe/util/bbox_util.hpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICByZXR1cm47Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>when inputs are invalid.</text>
       </register>
       <register name="/" type="4">
         <text>w</text>
@@ -82,31 +82,31 @@
         <text encoding="base64">ICAgIHByZWNpc2lvbi0+cHVzaF9iYWNrKHN0YXRpY19jYXN0PGZsb2F0Pih0cF9jdW1zdW1baV0pIC8KICAgICAgICAodHBfY3Vtc3VtW2ldICsgZnBfY3Vtc3VtW2ldKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXR1cm47Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGQK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmLndyaXRlKCchL2Jpbi9iYXNoIFxuJykK</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAvLyBTZXQgcmVzdWx0IHdoZW4gY3VycmVudF9mcHBpIG5ldmVyIGxhcmdlciB0aGFuIGdpdmVuIEZQUEkuCiAgcmVjYWxsID0gPTE7CiAgcHJlY2lzaW9uID0gMTs=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQoZmlsZV9uYW1lc1swXS5zdHJpcCgpKQo=</text>
+        <text encoding="base64">ICAvLyBSZXRydW4gdW5yZWFzb25hYmxlIHJlc3VsdCB3aGVuIGlucHV0cyBhcmUgaW52YWxpZC4K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZGlyZWN0b3J5Lgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiMgY29kaW5nOnV0Zi04</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBmLndyaXRlKCchL2Jpbi9iYXNoIFxuJykK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">cHJpbnQoZmlsZV9uYW1lc1swXS5zdHJpcCgpKQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
