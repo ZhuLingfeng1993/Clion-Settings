@@ -28,12 +28,25 @@
         <mark key="." line="224" column="26" />
         <mark key="^" line="224" column="26" />
       </file>
+      <file name="$USER_HOME$/Projects/caffe-q-ssd/include/caffe/util/bbox_util.hpp" timestamp="1557022774165">
+        <mark key="'" line="653" column="38" />
+        <mark key="[" line="626" column="19" />
+        <mark key="]" line="630" column="78" />
+        <mark key="." line="630" column="78" />
+        <mark key="^" line="630" column="78" />
+      </file>
       <file name="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/layers/annotated_data_layer.cpp" timestamp="1550564175464">
         <mark key="'" line="242" column="8" />
         <mark key="[" line="319" column="13" />
         <mark key="]" line="319" column="13" />
         <mark key="^" line="319" column="13" />
         <mark key="." line="319" column="13" />
+      </file>
+      <file name="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/util/bbox_util.cpp" timestamp="1557023492015">
+        <mark key="[" line="3343" column="17" />
+        <mark key="]" line="3343" column="17" />
+        <mark key="." line="3343" column="17" />
+        <mark key="^" line="3343" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/data_scripts_and_docs/scripts/count_label_category_and_check_label.py" timestamp="1556517272349">
         <mark key="[" line="5" column="0" />
@@ -52,52 +65,59 @@
       <jump line="591" column="0" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
       <jump line="14" column="0" filename="$USER_HOME$/Projects/data_scripts_and_docs/scripts/count_label_category_from_list_file.py" />
+      <jump line="630" column="78" filename="$USER_HOME$/Projects/caffe-q-ssd/include/caffe/util/bbox_util.hpp" />
+      <jump line="653" column="38" filename="$USER_HOME$/Projects/caffe-q-ssd/include/caffe/util/bbox_util.hpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>b</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>w</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmLndyaXRlKCdjcCAtLXBhcmVudCAtaXYge30ge30gXG4nLmZvcm1hdChESVJTLmpvYiwgIiRERVNUX0RJUiIpKQo=</text>
+        <text encoding="base64">ICAgIHByZWNpc2lvbi0+cHVzaF9iYWNrKHN0YXRpY19jYXN0PGZsb2F0Pih0cF9jdW1zdW1baV0pIC8KICAgICAgICAodHBfY3Vtc3VtW2ldICsgZnBfY3Vtc3VtW2ldKSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmLndyaXRlKCchL2Jpbi9iYXNoIFxuJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQoZmlsZV9uYW1lc1swXS5zdHJpcCgpKQo=</text>
+        <text encoding="base64">ICAgICAgICBmLndyaXRlKCchL2Jpbi9iYXNoIFxuJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQoZmlsZV9uYW1lc1swXS5zdHJpcCgpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZGlyZWN0b3J5Lgo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZGlyZWN0b3J5Lgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text encoding="base64">CiMgY29kaW5nOnV0Zi04</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
     </registers>
     <search>
       <last-search>w</last-search>
       <last-offset />
       <last-pattern>w</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute>w</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -108,7 +128,9 @@
         <entry>gen_ssd</entry>
         <entry>w</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
@@ -139,6 +161,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
