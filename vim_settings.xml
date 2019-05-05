@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" timestamp="1556862285760">
@@ -20,6 +20,12 @@
         <mark key="]" line="43" column="3" />
         <mark key="." line="43" column="3" />
         <mark key="^" line="43" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/solver.cpp" timestamp="1557034412268">
+        <mark key="[" line="562" column="59" />
+        <mark key="]" line="562" column="59" />
+        <mark key="^" line="562" column="59" />
+        <mark key="." line="562" column="59" />
       </file>
       <file name="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/layers/detection_evaluate_layer.cpp" timestamp="1556075899045">
         <mark key="'" line="233" column="65" />
@@ -69,44 +75,44 @@
       <jump line="653" column="38" filename="$USER_HOME$/Projects/caffe-q-ssd/include/caffe/util/bbox_util.hpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICByZXR1cm47Cg==</text>
+      <register name="&quot;" type="4">
+        <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>when inputs are invalid.</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text>w</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByZWNpc2lvbi0+cHVzaF9iYWNrKHN0YXRpY19jYXN0PGZsb2F0Pih0cF9jdW1zdW1baV0pIC8KICAgICAgICAodHBfY3Vtc3VtW2ldICsgZnBfY3Vtc3VtW2ldKSk7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICAvLyBTZXQgcmVzdWx0IHdoZW4gY3VycmVudF9mcHBpIG5ldmVyIGxhcmdlciB0aGFuIGdpdmVuIEZQUEkuCiAgcmVjYWxsID0gPTE7CiAgcHJlY2lzaW9uID0gMTs=</text>
+        <text encoding="base64">ICBpZiAocGFyYW1fLmhhc19mcHBpKCkpIHsKICAgICAgICBDSEVDS19MVChwYXJhbV8uZnBwaSgpLCAwKTsKICAgICAgICAvLyBDb21wdXRlIHByZWNpc2lvbiBhbmQgcmVjYWxsIGF0IGdpdmVuIGZwcGkuCiAgICAgICAgQ29tcHV0ZVBSQXRGUFBJKGxhYmVsX3RydWVfcG9zLCBsYWJlbF9udW1fZ3QsIGxhYmVsX2ZhbHNlX3BvcywKICAgICAgICAgICAgICAgICAgICAgICAgZnBwaSwgbnVtX2ltYWdlcywgJnByZWNpc2lvbl9hdF9mcHBpW2xhYmVsXSwKICAgICAgICAgICAgICAgICAgICAgICAgJnJlY2FsbF9hdF9mcHBpW2xhYmVsXSk7CiAgICAgICAgTE9GKElORk8pIDw8ICJjbGFzcyIgPDwgbGFiZWwgPDwgIjogIiA8PAogICAgICB9</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyBSZXRydW4gdW5yZWFzb25hYmxlIHJlc3VsdCB3aGVuIGlucHV0cyBhcmUgaW52YWxpZC4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICB9IC8vIEZvciBlYWNoIGNsYXNzLgo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgaWYgKHBhcmFtXy5oYXNfZnBwaSgpKSB7CiAgICAgICAgQ0hFQ0tfTFQocGFyYW1fLmZwcGkoKSwgMCk7CiAgICAgICAgLy8gQ29tcHV0ZSBwcmVjaXNpb24gYW5kIHJlY2FsbCBhdCBnaXZlbiBmcHBpLgogICAgICAgIENvbXB1dGVQUkF0RlBQSShsYWJlbF90cnVlX3BvcywgbGFiZWxfbnVtX2d0LCBsYWJlbF9mYWxzZV9wb3MsCiAgICAgICAgICAgICAgICAgICAgICAgIGZwcGksIG51bV9pbWFnZXMsICZwcmVjaXNpb25fYXRfZnBwaVtsYWJlbF0sCiAgICAgICAgICAgICAgICAgICAgICAgICZyZWNhbGxfYXRfZnBwaVtsYWJlbF0pOwogICAgICAgIExPRihJTkZPKSA8PCAiY2xhc3MiIDw8IGxhYmVsIDw8ICI6ICIgPDwKICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmLndyaXRlKCchL2Jpbi9iYXNoIFxuJykK</text>
+        <text encoding="base64">ICAgICAgICBMT0YoSU5GTykgPDwgIlByZWNpc2lvbiBhbmQgcmVhY2xsIGF0IGdpdmVuIEZQUEkuIjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJpbnQoZmlsZV9uYW1lc1swXS5zdHJpcCgpKQo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
