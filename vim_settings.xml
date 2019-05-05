@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" timestamp="1556862285760">
@@ -21,7 +21,15 @@
         <mark key="." line="43" column="3" />
         <mark key="^" line="43" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/solver.cpp" timestamp="1557035863412">
+      <file name="$USER_HOME$/Projects/caffe-q-ssd/distribute/proto/caffe.proto" timestamp="1557036649410">
+        <mark key="'" line="363" column="17" />
+        <mark key="[" line="232" column="39" />
+        <mark key="]" line="232" column="39" />
+        <mark key="." line="232" column="39" />
+        <mark key="^" line="283" column="30" />
+      </file>
+      <file name="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/solver.cpp" timestamp="1557036350529">
+        <mark key="'" line="564" column="32" />
         <mark key="[" line="550" column="22" />
         <mark key="]" line="550" column="27" />
         <mark key="." line="550" column="27" />
@@ -73,16 +81,25 @@
       <jump line="14" column="0" filename="$USER_HOME$/Projects/data_scripts_and_docs/scripts/count_label_category_from_list_file.py" />
       <jump line="630" column="78" filename="$USER_HOME$/Projects/caffe-q-ssd/include/caffe/util/bbox_util.hpp" />
       <jump line="653" column="38" filename="$USER_HOME$/Projects/caffe-q-ssd/include/caffe/util/bbox_util.hpp" />
+      <jump line="1032" column="0" filename="$USER_HOME$/Projects/caffe-q-ssd/distribute/proto/caffe.proto" />
+      <jump line="1496" column="53" filename="$USER_HOME$/Projects/caffe-q-ssd/distribute/proto/caffe.proto" />
+      <jump line="1497" column="26" filename="$USER_HOME$/Projects/caffe-q-ssd/distribute/proto/caffe.proto" />
+      <jump line="262" column="38" filename="$USER_HOME$/Projects/caffe-q-ssd/distribute/proto/caffe.proto" />
+      <jump line="315" column="12" filename="$USER_HOME$/Projects/caffe-q-ssd/distribute/proto/caffe.proto" />
+      <jump line="345" column="14" filename="$USER_HOME$/Projects/caffe-q-ssd/distribute/proto/caffe.proto" />
+      <jump line="350" column="22" filename="$USER_HOME$/Projects/caffe-q-ssd/distribute/proto/caffe.proto" />
+      <jump line="358" column="17" filename="$USER_HOME$/Projects/caffe-q-ssd/distribute/proto/caffe.proto" />
+      <jump line="564" column="32" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/solver.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text>w</text>
+        <text>eval_type</text>
       </register>
       <register name="0" type="4">
         <text>&quot;Precison and recall at FPPI =</text>
@@ -119,11 +136,11 @@
       </register>
     </registers>
     <search>
-      <last-search>w</last-search>
+      <last-search>eval_type</last-search>
       <last-offset />
-      <last-pattern>w</last-pattern>
+      <last-pattern>eval_type</last-pattern>
       <last-replace>~</last-replace>
-      <last-substitute>w</last-substitute>
+      <last-substitute>eval_type</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -133,6 +150,10 @@
         <entry>all_anno</entry>
         <entry>gen_ssd</entry>
         <entry>w</entry>
+        <entry>solver</entry>
+        <entry>solverparam</entry>
+        <entry>SolverParam</entry>
+        <entry>eval_type</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -173,6 +194,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
