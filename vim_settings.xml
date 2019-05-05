@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" timestamp="1556862285760">
@@ -21,11 +21,11 @@
         <mark key="." line="43" column="3" />
         <mark key="^" line="43" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/solver.cpp" timestamp="1557034412268">
-        <mark key="[" line="562" column="59" />
-        <mark key="]" line="562" column="59" />
-        <mark key="^" line="562" column="59" />
-        <mark key="." line="562" column="59" />
+      <file name="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/solver.cpp" timestamp="1557035863412">
+        <mark key="[" line="550" column="22" />
+        <mark key="]" line="550" column="27" />
+        <mark key="." line="550" column="27" />
+        <mark key="^" line="550" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/layers/detection_evaluate_layer.cpp" timestamp="1556075899045">
         <mark key="'" line="233" column="65" />
@@ -76,43 +76,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>j</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>w</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;Precison and recall at FPPI =</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICBpZiAocGFyYW1fLmhhc19mcHBpKCkpIHsKICAgICAgICBDSEVDS19MVChwYXJhbV8uZnBwaSgpLCAwKTsKICAgICAgICAvLyBDb21wdXRlIHByZWNpc2lvbiBhbmQgcmVjYWxsIGF0IGdpdmVuIGZwcGkuCiAgICAgICAgQ29tcHV0ZVBSQXRGUFBJKGxhYmVsX3RydWVfcG9zLCBsYWJlbF9udW1fZ3QsIGxhYmVsX2ZhbHNlX3BvcywKICAgICAgICAgICAgICAgICAgICAgICAgZnBwaSwgbnVtX2ltYWdlcywgJnByZWNpc2lvbl9hdF9mcHBpW2xhYmVsXSwKICAgICAgICAgICAgICAgICAgICAgICAgJnJlY2FsbF9hdF9mcHBpW2xhYmVsXSk7CiAgICAgICAgTE9GKElORk8pIDw8ICJjbGFzcyIgPDwgbGFiZWwgPDwgIjogIiA8PAogICAgICB9</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICA=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCByZWNhbGxzX2F0X2ZwcGkuc2l6ZSgpOzsKICAgICAgICAgICBpdCsrKSB7Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgQ0hFQ0tfTFQocGFyYW1fLmZwcGkoKSwgMCk7Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">Lmhhc19mcHBpKCkpIHsKICAgICAgQ0hFQ0tfTFQocGFyYW1fLmZwcGkoKSwgMCk7CiAgICAgIExPRyhJTkZPKSA8PCAiUHJlY2lzb24gYW5kIHJlY2FsbCBhdCA=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CiAgICB9IC8vIEZvciBlYWNoIGNsYXNzLgo=</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgaWYgKHBhcmFtXy5oYXNfZnBwaSgpKSB7CiAgICAgICAgQ0hFQ0tfTFQocGFyYW1fLmZwcGkoKSwgMCk7CiAgICAgICAgLy8gQ29tcHV0ZSBwcmVjaXNpb24gYW5kIHJlY2FsbCBhdCBnaXZlbiBmcHBpLgogICAgICAgIENvbXB1dGVQUkF0RlBQSShsYWJlbF90cnVlX3BvcywgbGFiZWxfbnVtX2d0LCBsYWJlbF9mYWxzZV9wb3MsCiAgICAgICAgICAgICAgICAgICAgICAgIGZwcGksIG51bV9pbWFnZXMsICZwcmVjaXNpb25fYXRfZnBwaVtsYWJlbF0sCiAgICAgICAgICAgICAgICAgICAgICAgICZyZWNhbGxfYXRfZnBwaVtsYWJlbF0pOwogICAgICAgIExPRihJTkZPKSA8PCAiY2xhc3MiIDw8IGxhYmVsIDw8ICI6ICIgPDwKICAgICAgfQo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMT0YoSU5GTykgPDwgIlByZWNpc2lvbiBhbmQgcmVhY2xsIGF0IGdpdmVuIEZQUEkuIjsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBDb21wdXRlIHByZWNpc2lvbiBhbmQgcmVjYWxsIGF0IGdpdmVuIGZwcGkuCiAgICAgICAgQ29tcHV0ZVBSQXRGUFBJKGxhYmVsX3RydWVfcG9zLCBsYWJlbF9udW1fZ3QsIGxhYmVsX2ZhbHNlX3BvcywKICAgICAgICAgICAgICAgICAgICAgICAgcGFyYW1fLmZwcGkoKSwgcGFyYW1fLm51bV9pbWFnZXMoKSwKICAgICAgICAgICAgICAgICAgICAgICAgJnByZWNpc2lvbnNfYXRfZnBwaVtsYWJlbF0sICZyZWNhbGxzX2F0X2ZwcGlbbGFiZWxdKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -170,6 +170,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
