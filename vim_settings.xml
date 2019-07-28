@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" timestamp="1556862285760">
@@ -56,7 +56,8 @@
         <mark key="^" line="319" column="13" />
         <mark key="." line="319" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/util/bbox_util.cpp" timestamp="1557025181272">
+      <file name="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/util/bbox_util.cpp" timestamp="1564279141519">
+        <mark key="'" line="194" column="28" />
         <mark key="[" line="3341" column="33" />
         <mark key="]" line="3341" column="55" />
         <mark key="." line="3341" column="55" />
@@ -90,6 +91,7 @@
       <jump line="350" column="22" filename="$USER_HOME$/Projects/caffe-q-ssd/distribute/proto/caffe.proto" />
       <jump line="358" column="17" filename="$USER_HOME$/Projects/caffe-q-ssd/distribute/proto/caffe.proto" />
       <jump line="564" column="32" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/solver.cpp" />
+      <jump line="194" column="28" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/util/bbox_util.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
