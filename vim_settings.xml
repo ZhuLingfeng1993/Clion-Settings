@@ -1,15 +1,8 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" timestamp="1556862285760">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="938" column="2" />
-        <mark key="]" line="1159" column="33" />
-        <mark key="." line="1159" column="33" />
-        <mark key="^" line="1160" column="59" />
-      </file>
       <file name="/Dummy.txt" timestamp="1556862358438">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="60" />
@@ -28,12 +21,18 @@
         <mark key="." line="232" column="39" />
         <mark key="^" line="283" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/solver.cpp" timestamp="1557036350529">
-        <mark key="'" line="564" column="32" />
-        <mark key="[" line="550" column="22" />
-        <mark key="]" line="550" column="27" />
-        <mark key="." line="550" column="27" />
-        <mark key="^" line="550" column="27" />
+      <file name="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/model_libs.py" timestamp="1571138316666">
+        <mark key="'" line="703" column="17" />
+        <mark key="[" line="764" column="0" />
+        <mark key="]" line="764" column="0" />
+        <mark key="^" line="653" column="47" />
+        <mark key="." line="764" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1571136960440">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1571137172565">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/layers/detection_evaluate_layer.cpp" timestamp="1556075899045">
         <mark key="'" line="233" column="65" />
@@ -48,6 +47,32 @@
         <mark key="]" line="630" column="78" />
         <mark key="." line="630" column="78" />
         <mark key="^" line="630" column="78" />
+      </file>
+      <file name="/" timestamp="1571137562538">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/False" timestamp="1571137561716">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" timestamp="1556862285760">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="938" column="2" />
+        <mark key="]" line="1159" column="33" />
+        <mark key="." line="1159" column="33" />
+        <mark key="^" line="1160" column="59" />
+      </file>
+      <file name="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/solver.cpp" timestamp="1557036350529">
+        <mark key="'" line="564" column="32" />
+        <mark key="[" line="550" column="22" />
+        <mark key="]" line="550" column="27" />
+        <mark key="." line="550" column="27" />
+        <mark key="^" line="550" column="27" />
+      </file>
+      <file name="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/test/test_model_libs.py" timestamp="1571136843241">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/layers/annotated_data_layer.cpp" timestamp="1550564175464">
         <mark key="'" line="242" column="8" />
@@ -67,6 +92,9 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/net_spec.py" timestamp="1571134130291">
+        <mark key="'" line="243" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -92,55 +120,70 @@
       <jump line="358" column="17" filename="$USER_HOME$/Projects/caffe-q-ssd/distribute/proto/caffe.proto" />
       <jump line="564" column="32" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/solver.cpp" />
       <jump line="194" column="28" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/util/bbox_util.cpp" />
+      <jump line="117" column="26" filename="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/net_spec.py" />
+      <jump line="104" column="8" filename="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/net_spec.py" />
+      <jump line="99" column="8" filename="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/net_spec.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/net_spec.py" />
+      <jump line="43" column="18" filename="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/net_spec.py" />
+      <jump line="116" column="12" filename="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/net_spec.py" />
+      <jump line="27" column="4" filename="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/net_spec.py" />
+      <jump line="243" column="0" filename="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/net_spec.py" />
+      <jump line="689" column="36" filename="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/model_libs.py" />
+      <jump line="700" column="45" filename="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/model_libs.py" />
+      <jump line="653" column="8" filename="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/model_libs.py" />
+      <jump line="688" column="13" filename="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/model_libs.py" />
+      <jump line="656" column="8" filename="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/model_libs.py" />
+      <jump line="693" column="13" filename="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/model_libs.py" />
+      <jump line="703" column="17" filename="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/model_libs.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZGVmIHNodWZmbGVfYmxvY2tfdjJfZmNuKG5ldCwgZnJvbV9sYXllciwgb3V0X2xheWVyLCBvdXRfY2hhbm5lbHMsIHN0cmlkZSwKICAgICAgICB1c2VfYm4sIGxyX211bHQ9MS4wLCBjaGFubmVsX211bHQ9MS4wLAogICAgICAgIG5vcm1hbF9jb252PUZhbHNlLCBrZXJuZWxfc2l6ZT0zKToKICAgICcnJwogICAgbm9ybWFsX2NvbnY6IGNvbnYtYm4tcmVsdQogICAga2VybmVsX3NpemU6IHVzZWQgd2hlbiBub3JtYWxfY29udj1UcnVlCiAgICAnJycKICAgICMgIyMjIyMjIGFyZ3MgIyMjIyMKICAgICMgZW5naW5lPVAuQ29udm9sdXRpb24uQ0FGRkUKICAgIGlmIHVzZV9ibjoKICAgICAgICAjIHBhcmFtZXRlcnMgZm9yIGNvbnZvbHV0aW9uIGxheWVyIHdpdGggYmF0Y2hub3JtLgogICAgICAgICMgdXNlIHNjYWxlIGJpYXMgbGF5ZXIgdG8gc2V0IGJpYXMsc28gbm8gbmVlZCBiaWFzX3Rlcm0gaW4gY29udgogICAgICAgIGt3YXJncyA9IHsKICAgICAgICAgICAgJ3BhcmFtJzogW2RpY3QobHJfbXVsdD1scl9tdWx0LCBkZWNheV9tdWx0PTEuMCldLAogICAgICAgICAgICAnd2VpZ2h0X2ZpbGxlcic6IGRpY3QodHlwZT0nbXNyYScpLAogICAgICAgICAgICAnYmlhc190ZXJtJzogRmFsc2UsCiAgICAgICAgICAgICMgJ2VuZ2luZSc6IGVuZ2luZSwKICAgICAgICB9CiAgICAgICAgIyBwYXJhbWV0ZXJzIGZvciBiYXRjaG5vcm0gbGF5ZXIuCiAgICAgICAgYm5fa3dhcmdzID0gewogICAgICAgICAgICAncGFyYW0nOiBbCiAgICAgICAgICAgICAgICBkaWN0KGxyX211bHQ9MCwgZGVjYXlfbXVsdD0wKSwKICAgICAgICAgICAgICAgIGRpY3QobHJfbXVsdD0wLCBkZWNheV9tdWx0PTApLAogICAgICAgICAgICAgICAgZGljdChscl9tdWx0PTAsIGRlY2F5X211bHQ9MCldLAogICAgICAgIH0KICAgICAgICAjIHBhcmFtZXRlcnMgZm9yIHNjYWxlIGJpYXMgbGF5ZXIgYWZ0ZXIgYmF0Y2hub3JtLgogICAgICAgIGJuX2xyX211bHQgPSBscl9tdWx0CiAgICAgICAgc2Jfa3dhcmdzID0gewogICAgICAgICAgICAnYmlhc190ZXJtJzogVHJ1ZSwKICAgICAgICAgICAgJ3BhcmFtJzogWwogICAgICAgICAgICAgICAgZGljdChscl9tdWx0PWJuX2xyX211bHQsIGRlY2F5X211bHQ9MCksCiAgICAgICAgICAgICAgICBkaWN0KGxyX211bHQ9Ym5fbHJfbXVsdCwgZGVjYXlfbXVsdD0wKV0sCiAgICAgICAgICAgICdmaWxsZXInOiBkaWN0KHR5cGU9J2NvbnN0YW50JywgdmFsdWU9MS4wKSwKICAgICAgICAgICAgJ2JpYXNfZmlsbGVyJzogZGljdCh0eXBlPSdjb25zdGFudCcsIHZhbHVlPTAuMCksCiAgICAgICAgfQogICAgZWxzZToKICAgICAgICAjIHBhcmFtZXRlcnMgZm9yIGNvbnZvbHV0aW9uIGxheWVyIHdpdGhvdXQgYmF0Y2hub3JtLgogICAgICAgICMgZm9yIGRlcGxveSBuZXQsIG1lcmdlIGJuIHRvIGJpYXMsIHNvIGJpYXNfdGVybSBtdXN0IGJlIHRydWUoY2FmZmUgZGVmYXVsdCkKICAgICAgICBrd2FyZ3MgPSB7CiAgICAgICAgICAgICdwYXJhbSc6IFsKICAgICAgICAgICAgICAgIGRpY3QobHJfbXVsdD1scl9tdWx0LCBkZWNheV9tdWx0PTEpLAogICAgICAgICAgICAgICAgZGljdChscl9tdWx0PTIgKiBscl9tdWx0LCBkZWNheV9tdWx0PTApXSwKICAgICAgICAgICAgJ3dlaWdodF9maWxsZXInOiBkaWN0KHR5cGU9J21zcmEnKSwKICAgICAgICAgICAgJ2JpYXNfZmlsbGVyJzogZGljdCh0eXBlPSdjb25zdGFudCcsIHZhbHVlPTApLAogICAgICAgICAgICAjICdlbmdpbmUnOiBlbmdpbmUsCiAgICAgICAgfQoKICAgICMgY29udi1ibi1yZWx1CiAgICBpZiBub3JtYWxfY29udjoKICAgICAgICBvdXRfY2hhbm5lbHMgPSBpbnQob3V0X2NoYW5uZWxzICogY2hhbm5lbF9tdWx0KSAKICAgICAgICBuZXRbb3V0X2xheWVyXSA9IEwuQ29udm9sdXRpb24obmV0W2Zyb21fbGF5ZXJdLCBudW1fb3V0cHV0PW91dF9jaGFubmVscywKICAgICAgICAgICAga2VybmVsX3NpemU9a2VybmVsX3NpemUsIHBhZD1pbnQoa2VybmVsX3NpemUvMiksIHN0cmlkZT1zdHJpZGUsICoqa3dhcmdzKQogICAgICAgIGlmIHVzZV9ibjoKICAgICAgICAgICAgbmV0W291dF9sYXllciArICcvYm4nXSA9IEwuQmF0Y2hOb3JtKG5ldFtvdXRfbGF5ZXJdLCBpbl9wbGFjZT1UcnVlLCAqKmJuX2t3YXJncykKICAgICAgICAgICAgbmV0W291dF9sYXllciArICcvc2NhbGUnXSA9IEwuU2NhbGUobmV0W291dF9sYXllcl0sIGluX3BsYWNlPVRydWUsICoqc2Jfa3dhcmdzKQogICAgICAgIG5ldFtvdXRfbGF5ZXIgKyAnL3JlbHUnXSA9IEwuUmVMVShuZXRbb3V0X2xheWVyXSwgaW5fcGxhY2U9VHJ1ZSkKICAgICAgICByZXR1cm4KCiAgICAjICMjIyMjIEJsb2NrIGRlZmluaXRpb24uICMjIyMjCiAgICBjaGFubmVscyA9IGludChvdXRfY2hhbm5lbHMgLyAyICogY2hhbm5lbF9tdWx0KQogICAgaWYgc3RyaWRlID09IDE6CiAgICAgICAgIyBjaGFubmVsIHNwbGl0LgogICAgICAgIHNsaWNlMSA9IG91dF9sYXllciArICcvc2xpY2UxJwogICAgICAgIHNsaWNlMiA9IG91dF9sYXllciArICcvc2xpY2UyJwogICAgICAgIG5ldFtzbGljZTFdLCBuZXRbc2xpY2UyXSA9IEwuU2xpY2UobmV0W2Zyb21fbGF5ZXJdLCBudG9wPTIsIGF4aXM9MSwgc2xpY2VfcG9pbnQ9Y2hhbm5lbHMpCiAgICAgICAgIyBnZXQgYnJhY2ggaW5wdXQuCiAgICAgICAgYnJhbmNoMV9pbnB1dCA9IHNsaWNlMQogICAgICAgIGJyYW5jaDJfaW5wdXQgPSBzbGljZTIKICAgIGVsc2U6CiAgICAgICAgIyBnZXQgYnJhY2ggaW5wdXQuCiAgICAgICAgYnJhbmNoMV9pbnB1dCA9IGZyb21fbGF5ZXIKICAgICAgICBicmFuY2gyX2lucHV0ID0gZnJvbV9sYXllcgogICAgICAgIAogICAgIyBicmFuY2gxCiAgICBicmFuY2gxID0gb3V0X2xheWVyICsgJy9icmFuY2gxJwogICAgcHcxID0gYnJhbmNoMSArICcvcHcxJwogICAgZHcgPSBicmFuY2gxICsgJy9kdycKICAgIHB3MiA9IGJyYW5jaDEgKyAnL3B3MicKICAgICMgcG9pbnR3aXNlIGNvbnZvbHV0aW9uKENfaW4gPSBDX291dCkKICAgIG5ldFtwdzFdID0gTC5Db252b2x1dGlvbihuZXRbYnJhbmNoMV9pbnB1dF0sIG51bV9vdXRwdXQ9Y2hhbm5lbHMsCiAgICAgICAga2VybmVsX3NpemU9MSwgcGFkPTAsIHN0cmlkZT0xLCAqKmt3YXJncykKICAgIGlmIHVzZV9ibjoKICAgICAgICBuZXRbcHcxICsgJy9ibiddID0gTC5CYXRjaE5vcm0obmV0W3B3MV0sIGluX3BsYWNlPVRydWUsICoqYm5fa3dhcmdzKQogICAgICAgIG5ldFtwdzEgKyAnL3NjYWxlJ10gPSBMLlNjYWxlKG5ldFtwdzFdLCBpbl9wbGFjZT1UcnVlLCAqKnNiX2t3YXJncykKICAgIG5ldFtwdzEgKyAnL3JlbHUnXSA9IEwuUkVMVShuZXRbcHcxXSwgaW5fcGxhY2U9VHJ1ZSkKICAgICMgZGVwdGh3aXNlIGNvbnZvbHV0aW9uKENfaW4gPSBDX291dCksIG5vIHJlbHUuCiAgICBuZXRbZHddID0gTC5Db252b2x1dGlvbihuZXRbcHcxXSwgbnVtX291dHB1dD1jaGFubmVscywgCiAgICAgICAga2VybmVsX3NpemU9MywgcGFkPTEsIGdyb3VwPWNoYW5uZWxzLCBzdHJpZGU9c3RyaWRlLCAqKmt3YXJncykKICAgIGlmIHVzZV9ibjoKICAgICAgICBuZXRbZHcgKyAnL2JuJ10gPSBMLkJhdGNoTm9ybShuZXRbZHddLCBpbl9wbGFjZT1UcnVlLCAqKmJuX2t3YXJncykKICAgICAgICBuZXRbZHcgKyAnL3NjYWxlJ10gPSBMLlNjYWxlKG5ldFtkd10sIGluX3BsYWNlPVRydWUsICoqc2Jfa3dhcmdzKQogICAgIyBwb2ludHdpc2UgY29udm9sdXRpb24oQ19pbiA9IENfb3V0KQogICAgbmV0W3B3Ml0gPSBMLkNvbnZvbHV0aW9uKG5ldFtkd10sIG51bV9vdXRwdXQ9Y2hhbm5lbHMsCiAgICAgICAga2VybmVsX3NpemU9MSwgcGFkPTAsIHN0cmlkZT0xLCAqKmt3YXJncykKICAgIGlmIHVzZV9ibjoKICAgICAgICBuZXRbcHcyICsgJy9ibiddID0gTC5CYXRjaE5vcm0obmV0W3B3Ml0sIGluX3BsYWNlPVRydWUsICoqYm5fa3dhcmdzKQogICAgICAgIG5ldFtwdzIgKyAnL3NjYWxlJ10gPSBMLlNjYWxlKG5ldFtwdzJdLCBpbl9wbGFjZT1UcnVlLCAqKnNiX2t3YXJncykKICAgIG5ldFtwdzIgKyAnL3JlbHUnXSA9IEwuUkVMVShuZXRbcHcyXSwgaW5fcGxhY2U9VHJ1ZSkKCiAgICAjIGJyYW5jaDIKICAgIGJyYW5jaDIgPSBvdXRfbGF5ZXIgKyAnL2JyYW5jaDInCiAgICBkd19zMiA9IGJyYW5jaDIgKyAnL2R3X3MyJwogICAgcHczID0gYnJhbmNoMiArICcvcHcnCiAgICBpZiBzdHJpZGUgPT0gMjoKICAgICAgICAjIGRlcHRod2lzZSBjb252b2x1dGlvbihDX2luID0gQ19vdXQpLCBubyByZWx1LgogICAgICAgIG5ldFtkd19zMl0gPSBMLkNvbnZvbHV0aW9uKG5ldFticmFuY2gyX2lucHV0XSwgbnVtX291dHB1dD1jaGFubmVscywgCiAgICAgICAgICAgIGtlcm5lbF9zaXplPTMsIHBhZD0xLCBncm91cD1jaGFubmVscywgc3RyaWRlPXN0cmlkZSwgKiprd2FyZ3MpCiAgICAgICAgaWYgdXNlX2JuOgogICAgICAgICAgICBuZXRbZHdfczIgKyAnL2JuJ10gPSBMLkJhdGNoTm9ybShuZXRbZHdfczJdLCBpbl9wbGFjZT1UcnVlLCAqKmJuX2t3YXJncykKICAgICAgICAgICAgbmV0W2R3X3MyICsgJy9zY2FsZSddID0gTC5TY2FsZShuZXRbZHdfczJdLCBpbl9wbGFjZT1UcnVlLCAqKnNiX2t3YXJncykKICAgICAgICAjIHBvaW50d2lzZSBjb252b2x1dGlvbihDX2luID0gQ19vdXQpCiAgICAgICAgbmV0W3B3M10gPSBMLkNvbnZvbHV0aW9uKG5ldFtkd19zMl0sIG51bV9vdXRwdXQ9Y2hhbm5lbHMsCiAgICAgICAgICAgIGtlcm5lbF9zaXplPTEsIHBhZD0wLCBzdHJpZGU9MSwgKiprd2FyZ3MpCiAgICAgICAgaWYgdXNlX2JuOgogICAgICAgICAgICBuZXRbcHczICsgJy9ibiddID0gTC5CYXRjaE5vcm0obmV0W3B3M10sIGluX3BsYWNlPVRydWUsICoqYm5fa3dhcmdzKQogICAgICAgICAgICBuZXRbcHczICsgJy9zY2FsZSddID0gTC5TY2FsZShuZXRbcHczXSwgaW5fcGxhY2U9VHJ1ZSwgKipzYl9rd2FyZ3MpCiAgICAgICAgbmV0W3B3MyArICcvcmVsdSddID0gTC5SRUxVKG5ldFtwdzNdLCBpbl9wbGFjZT1UcnVlKQoKICAgICMgY29uY2F0CiAgICBpZiBzdHJpZGUgPT0gMToKICAgICAgICBuZXRbb3V0X2xheWVyICsgJy9jb25jYXQnXSA9IEwuQ29uY2F0KG5ldFtzbGljZTJdLCBuZXRbcHcyXSwgYXhpcz0xKQogICAgZWxzZToKICAgICAgICBuZXRbb3V0X2xheWVyICsgJy9jb25jYXQnXSA9IEwuQ29uY2F0KG5ldFtwdzNdLCBuZXRbcHcyXSwgYXhpcz0xKQogICAgIyBjaGFubmVsIHNodWZmbGUKICAgIG5ldFtvdXRfbGF5ZXIgKyAnL3NodWZmbGUnXSA9IEwuU2h1ZmZsZUNoYW5uZWwobmV0W291dF9sYXllciArICcvY29uY2F0J10sIGdyb3VwPTIpCgoK</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>E</text>
       </register>
       <register name="/" type="4">
-        <text>eval_type</text>
+        <text encoding="base64">XDxkd19jb252XD4=</text>
       </register>
       <register name="0" type="4">
-        <text>&quot;Precison and recall at FPPI =</text>
+        <text>shuffle_net_v2_body(</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIHNodWZmbGVfYmxvY2tfdjJfZmNuKG5ldCwgZnJvbV9sYXllciwgb3V0X2xheWVyLCBvdXRfY2hhbm5lbHMsIHN0cmlkZSwKICAgICAgICB1c2VfYm4sIGxyX211bHQ9MS4wLCBjaGFubmVsX211bHQ9MS4wLAogICAgICAgIG5vcm1hbF9jb252PUZhbHNlLCBrZXJuZWxfc2l6ZT0zKToKICAgICcnJwogICAgbm9ybWFsX2NvbnY6IGNvbnYtYm4tcmVsdQogICAga2VybmVsX3NpemU6IHVzZWQgd2hlbiBub3JtYWxfY29udj1UcnVlCiAgICAnJycKICAgICMgIyMjIyMjIGFyZ3MgIyMjIyMKICAgICMgZW5naW5lPVAuQ29udm9sdXRpb24uQ0FGRkUKICAgIGlmIHVzZV9ibjoKICAgICAgICAjIHBhcmFtZXRlcnMgZm9yIGNvbnZvbHV0aW9uIGxheWVyIHdpdGggYmF0Y2hub3JtLgogICAgICAgICMgdXNlIHNjYWxlIGJpYXMgbGF5ZXIgdG8gc2V0IGJpYXMsc28gbm8gbmVlZCBiaWFzX3Rlcm0gaW4gY29udgogICAgICAgIGt3YXJncyA9IHsKICAgICAgICAgICAgJ3BhcmFtJzogW2RpY3QobHJfbXVsdD1scl9tdWx0LCBkZWNheV9tdWx0PTEuMCldLAogICAgICAgICAgICAnd2VpZ2h0X2ZpbGxlcic6IGRpY3QodHlwZT0nbXNyYScpLAogICAgICAgICAgICAnYmlhc190ZXJtJzogRmFsc2UsCiAgICAgICAgICAgICMgJ2VuZ2luZSc6IGVuZ2luZSwKICAgICAgICB9CiAgICAgICAgIyBwYXJhbWV0ZXJzIGZvciBiYXRjaG5vcm0gbGF5ZXIuCiAgICAgICAgYm5fa3dhcmdzID0gewogICAgICAgICAgICAncGFyYW0nOiBbCiAgICAgICAgICAgICAgICBkaWN0KGxyX211bHQ9MCwgZGVjYXlfbXVsdD0wKSwKICAgICAgICAgICAgICAgIGRpY3QobHJfbXVsdD0wLCBkZWNheV9tdWx0PTApLAogICAgICAgICAgICAgICAgZGljdChscl9tdWx0PTAsIGRlY2F5X211bHQ9MCldLAogICAgICAgIH0KICAgICAgICAjIHBhcmFtZXRlcnMgZm9yIHNjYWxlIGJpYXMgbGF5ZXIgYWZ0ZXIgYmF0Y2hub3JtLgogICAgICAgIGJuX2xyX211bHQgPSBscl9tdWx0CiAgICAgICAgc2Jfa3dhcmdzID0gewogICAgICAgICAgICAnYmlhc190ZXJtJzogVHJ1ZSwKICAgICAgICAgICAgJ3BhcmFtJzogWwogICAgICAgICAgICAgICAgZGljdChscl9tdWx0PWJuX2xyX211bHQsIGRlY2F5X211bHQ9MCksCiAgICAgICAgICAgICAgICBkaWN0KGxyX211bHQ9Ym5fbHJfbXVsdCwgZGVjYXlfbXVsdD0wKV0sCiAgICAgICAgICAgICdmaWxsZXInOiBkaWN0KHR5cGU9J2NvbnN0YW50JywgdmFsdWU9MS4wKSwKICAgICAgICAgICAgJ2JpYXNfZmlsbGVyJzogZGljdCh0eXBlPSdjb25zdGFudCcsIHZhbHVlPTAuMCksCiAgICAgICAgfQogICAgZWxzZToKICAgICAgICAjIHBhcmFtZXRlcnMgZm9yIGNvbnZvbHV0aW9uIGxheWVyIHdpdGhvdXQgYmF0Y2hub3JtLgogICAgICAgICMgZm9yIGRlcGxveSBuZXQsIG1lcmdlIGJuIHRvIGJpYXMsIHNvIGJpYXNfdGVybSBtdXN0IGJlIHRydWUoY2FmZmUgZGVmYXVsdCkKICAgICAgICBrd2FyZ3MgPSB7CiAgICAgICAgICAgICdwYXJhbSc6IFsKICAgICAgICAgICAgICAgIGRpY3QobHJfbXVsdD1scl9tdWx0LCBkZWNheV9tdWx0PTEpLAogICAgICAgICAgICAgICAgZGljdChscl9tdWx0PTIgKiBscl9tdWx0LCBkZWNheV9tdWx0PTApXSwKICAgICAgICAgICAgJ3dlaWdodF9maWxsZXInOiBkaWN0KHR5cGU9J21zcmEnKSwKICAgICAgICAgICAgJ2JpYXNfZmlsbGVyJzogZGljdCh0eXBlPSdjb25zdGFudCcsIHZhbHVlPTApLAogICAgICAgICAgICAjICdlbmdpbmUnOiBlbmdpbmUsCiAgICAgICAgfQoKICAgICMgY29udi1ibi1yZWx1CiAgICBpZiBub3JtYWxfY29udjoKICAgICAgICBvdXRfY2hhbm5lbHMgPSBpbnQob3V0X2NoYW5uZWxzICogY2hhbm5lbF9tdWx0KSAKICAgICAgICBuZXRbb3V0X2xheWVyXSA9IEwuQ29udm9sdXRpb24obmV0W2Zyb21fbGF5ZXJdLCBudW1fb3V0cHV0PW91dF9jaGFubmVscywKICAgICAgICAgICAga2VybmVsX3NpemU9a2VybmVsX3NpemUsIHBhZD1pbnQoa2VybmVsX3NpemUvMiksIHN0cmlkZT1zdHJpZGUsICoqa3dhcmdzKQogICAgICAgIGlmIHVzZV9ibjoKICAgICAgICAgICAgbmV0W291dF9sYXllciArICcvYm4nXSA9IEwuQmF0Y2hOb3JtKG5ldFtvdXRfbGF5ZXJdLCBpbl9wbGFjZT1UcnVlLCAqKmJuX2t3YXJncykKICAgICAgICAgICAgbmV0W291dF9sYXllciArICcvc2NhbGUnXSA9IEwuU2NhbGUobmV0W291dF9sYXllcl0sIGluX3BsYWNlPVRydWUsICoqc2Jfa3dhcmdzKQogICAgICAgIG5ldFtvdXRfbGF5ZXIgKyAnL3JlbHUnXSA9IEwuUmVMVShuZXRbb3V0X2xheWVyXSwgaW5fcGxhY2U9VHJ1ZSkKICAgICAgICByZXR1cm4KCiAgICAjICMjIyMjIEJsb2NrIGRlZmluaXRpb24uICMjIyMjCiAgICBjaGFubmVscyA9IGludChvdXRfY2hhbm5lbHMgLyAyICogY2hhbm5lbF9tdWx0KQogICAgaWYgc3RyaWRlID09IDE6CiAgICAgICAgIyBjaGFubmVsIHNwbGl0LgogICAgICAgIHNsaWNlMSA9IG91dF9sYXllciArICcvc2xpY2UxJwogICAgICAgIHNsaWNlMiA9IG91dF9sYXllciArICcvc2xpY2UyJwogICAgICAgIG5ldFtzbGljZTFdLCBuZXRbc2xpY2UyXSA9IEwuU2xpY2UobmV0W2Zyb21fbGF5ZXJdLCBudG9wPTIsIGF4aXM9MSwgc2xpY2VfcG9pbnQ9Y2hhbm5lbHMpCiAgICAgICAgIyBnZXQgYnJhY2ggaW5wdXQuCiAgICAgICAgYnJhbmNoMV9pbnB1dCA9IHNsaWNlMQogICAgICAgIGJyYW5jaDJfaW5wdXQgPSBzbGljZTIKICAgIGVsc2U6CiAgICAgICAgIyBnZXQgYnJhY2ggaW5wdXQuCiAgICAgICAgYnJhbmNoMV9pbnB1dCA9IGZyb21fbGF5ZXIKICAgICAgICBicmFuY2gyX2lucHV0ID0gZnJvbV9sYXllcgogICAgICAgIAogICAgIyBicmFuY2gxCiAgICBicmFuY2gxID0gb3V0X2xheWVyICsgJy9icmFuY2gxJwogICAgcHcxID0gYnJhbmNoMSArICcvcHcxJwogICAgZHcgPSBicmFuY2gxICsgJy9kdycKICAgIHB3MiA9IGJyYW5jaDEgKyAnL3B3MicKICAgICMgcG9pbnR3aXNlIGNvbnZvbHV0aW9uKENfaW4gPSBDX291dCkKICAgIG5ldFtwdzFdID0gTC5Db252b2x1dGlvbihuZXRbYnJhbmNoMV9pbnB1dF0sIG51bV9vdXRwdXQ9Y2hhbm5lbHMsCiAgICAgICAga2VybmVsX3NpemU9MSwgcGFkPTAsIHN0cmlkZT0xLCAqKmt3YXJncykKICAgIGlmIHVzZV9ibjoKICAgICAgICBuZXRbcHcxICsgJy9ibiddID0gTC5CYXRjaE5vcm0obmV0W3B3MV0sIGluX3BsYWNlPVRydWUsICoqYm5fa3dhcmdzKQogICAgICAgIG5ldFtwdzEgKyAnL3NjYWxlJ10gPSBMLlNjYWxlKG5ldFtwdzFdLCBpbl9wbGFjZT1UcnVlLCAqKnNiX2t3YXJncykKICAgIG5ldFtwdzEgKyAnL3JlbHUnXSA9IEwuUkVMVShuZXRbcHcxXSwgaW5fcGxhY2U9VHJ1ZSkKICAgICMgZGVwdGh3aXNlIGNvbnZvbHV0aW9uKENfaW4gPSBDX291dCksIG5vIHJlbHUuCiAgICBuZXRbZHddID0gTC5Db252b2x1dGlvbihuZXRbcHcxXSwgbnVtX291dHB1dD1jaGFubmVscywgCiAgICAgICAga2VybmVsX3NpemU9MywgcGFkPTEsIGdyb3VwPWNoYW5uZWxzLCBzdHJpZGU9c3RyaWRlLCAqKmt3YXJncykKICAgIGlmIHVzZV9ibjoKICAgICAgICBuZXRbZHcgKyAnL2JuJ10gPSBMLkJhdGNoTm9ybShuZXRbZHddLCBpbl9wbGFjZT1UcnVlLCAqKmJuX2t3YXJncykKICAgICAgICBuZXRbZHcgKyAnL3NjYWxlJ10gPSBMLlNjYWxlKG5ldFtkd10sIGluX3BsYWNlPVRydWUsICoqc2Jfa3dhcmdzKQogICAgIyBwb2ludHdpc2UgY29udm9sdXRpb24oQ19pbiA9IENfb3V0KQogICAgbmV0W3B3Ml0gPSBMLkNvbnZvbHV0aW9uKG5ldFtkd10sIG51bV9vdXRwdXQ9Y2hhbm5lbHMsCiAgICAgICAga2VybmVsX3NpemU9MSwgcGFkPTAsIHN0cmlkZT0xLCAqKmt3YXJncykKICAgIGlmIHVzZV9ibjoKICAgICAgICBuZXRbcHcyICsgJy9ibiddID0gTC5CYXRjaE5vcm0obmV0W3B3Ml0sIGluX3BsYWNlPVRydWUsICoqYm5fa3dhcmdzKQogICAgICAgIG5ldFtwdzIgKyAnL3NjYWxlJ10gPSBMLlNjYWxlKG5ldFtwdzJdLCBpbl9wbGFjZT1UcnVlLCAqKnNiX2t3YXJncykKICAgIG5ldFtwdzIgKyAnL3JlbHUnXSA9IEwuUkVMVShuZXRbcHcyXSwgaW5fcGxhY2U9VHJ1ZSkKCiAgICAjIGJyYW5jaDIKICAgIGJyYW5jaDIgPSBvdXRfbGF5ZXIgKyAnL2JyYW5jaDInCiAgICBkd19zMiA9IGJyYW5jaDIgKyAnL2R3X3MyJwogICAgcHczID0gYnJhbmNoMiArICcvcHcnCiAgICBpZiBzdHJpZGUgPT0gMjoKICAgICAgICAjIGRlcHRod2lzZSBjb252b2x1dGlvbihDX2luID0gQ19vdXQpLCBubyByZWx1LgogICAgICAgIG5ldFtkd19zMl0gPSBMLkNvbnZvbHV0aW9uKG5ldFticmFuY2gyX2lucHV0XSwgbnVtX291dHB1dD1jaGFubmVscywgCiAgICAgICAgICAgIGtlcm5lbF9zaXplPTMsIHBhZD0xLCBncm91cD1jaGFubmVscywgc3RyaWRlPXN0cmlkZSwgKiprd2FyZ3MpCiAgICAgICAgaWYgdXNlX2JuOgogICAgICAgICAgICBuZXRbZHdfczIgKyAnL2JuJ10gPSBMLkJhdGNoTm9ybShuZXRbZHdfczJdLCBpbl9wbGFjZT1UcnVlLCAqKmJuX2t3YXJncykKICAgICAgICAgICAgbmV0W2R3X3MyICsgJy9zY2FsZSddID0gTC5TY2FsZShuZXRbZHdfczJdLCBpbl9wbGFjZT1UcnVlLCAqKnNiX2t3YXJncykKICAgICAgICAjIHBvaW50d2lzZSBjb252b2x1dGlvbihDX2luID0gQ19vdXQpCiAgICAgICAgbmV0W3B3M10gPSBMLkNvbnZvbHV0aW9uKG5ldFtkd19zMl0sIG51bV9vdXRwdXQ9Y2hhbm5lbHMsCiAgICAgICAgICAgIGtlcm5lbF9zaXplPTEsIHBhZD0wLCBzdHJpZGU9MSwgKiprd2FyZ3MpCiAgICAgICAgaWYgdXNlX2JuOgogICAgICAgICAgICBuZXRbcHczICsgJy9ibiddID0gTC5CYXRjaE5vcm0obmV0W3B3M10sIGluX3BsYWNlPVRydWUsICoqYm5fa3dhcmdzKQogICAgICAgICAgICBuZXRbcHczICsgJy9zY2FsZSddID0gTC5TY2FsZShuZXRbcHczXSwgaW5fcGxhY2U9VHJ1ZSwgKipzYl9rd2FyZ3MpCiAgICAgICAgbmV0W3B3MyArICcvcmVsdSddID0gTC5SRUxVKG5ldFtwdzNdLCBpbl9wbGFjZT1UcnVlKQoKICAgICMgY29uY2F0CiAgICBpZiBzdHJpZGUgPT0gMToKICAgICAgICBuZXRbb3V0X2xheWVyICsgJy9jb25jYXQnXSA9IEwuQ29uY2F0KG5ldFtzbGljZTJdLCBuZXRbcHcyXSwgYXhpcz0xKQogICAgZWxzZToKICAgICAgICBuZXRbb3V0X2xheWVyICsgJy9jb25jYXQnXSA9IEwuQ29uY2F0KG5ldFtwdzNdLCBuZXRbcHcyXSwgYXhpcz0xKQogICAgIyBjaGFubmVsIHNodWZmbGUKICAgIG5ldFtvdXRfbGF5ZXIgKyAnL3NodWZmbGUnXSA9IEwuU2h1ZmZsZUNoYW5uZWwobmV0W291dF9sYXllciArICcvY29uY2F0J10sIGdyb3VwPTIpCgoK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICA=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCByZWNhbGxzX2F0X2ZwcGkuc2l6ZSgpOzsKICAgICAgICAgICBpdCsrKSB7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgQ0hFQ0tfTFQocGFyYW1fLmZwcGkoKSwgMCk7Cg==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">Lmhhc19mcHBpKCkpIHsKICAgICAgQ0hFQ0tfTFQocGFyYW1fLmZwcGkoKSwgMCk7CiAgICAgIExPRyhJTkZPKSA8PCAiUHJlY2lzb24gYW5kIHJlY2FsbCBhdCA=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBDb21wdXRlIHByZWNpc2lvbiBhbmQgcmVjYWxsIGF0IGdpdmVuIGZwcGkuCiAgICAgICAgQ29tcHV0ZVBSQXRGUFBJKGxhYmVsX3RydWVfcG9zLCBsYWJlbF9udW1fZ3QsIGxhYmVsX2ZhbHNlX3BvcywKICAgICAgICAgICAgICAgICAgICAgICAgcGFyYW1fLmZwcGkoKSwgcGFyYW1fLm51bV9pbWFnZXMoKSwKICAgICAgICAgICAgICAgICAgICAgICAgJnByZWNpc2lvbnNfYXRfZnBwaVtsYWJlbF0sICZyZWNhbGxzX2F0X2ZwcGlbbGFiZWxdKTsK</text>
-      </register>
-      <register name="8" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="2">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGtlcm5lbF9zaXplOiB1c2VkIHdoZW4gbm9ybWFsX2NvbnY9VHJ1ZQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgID0xLCB1c2VfYm49dXNlX2JuLCBjaGFubmVsX211bHQ9Y2hhbm5lbF9tdWx0LAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLm91dF9jaGFubmVscyA9IG91dF9jaGFubmVscwo=</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">LAogICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CiAgICBwcmludCh0eXBlKG5ldC5kdW1teV9kYXRhKSkKICAgIHByaW50KHR5cGUobmV0LmR1bW15X2RhdGEuZm4pKQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHByaW50KHR5cGUobmV0LmR1bW15X2RhdGEuZm4ucGFyYW1zKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>eval_type</last-search>
+      <last-search encoding="base64">XDxkd19jb252XD4=</last-search>
       <last-offset />
-      <last-pattern>eval_type</last-pattern>
+      <last-pattern encoding="base64">XDxkd19jb252XD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>eval_type</last-substitute>
       <last-dir>1</last-dir>
@@ -156,9 +199,17 @@
         <entry>solverparam</entry>
         <entry>SolverParam</entry>
         <entry>eval_type</entry>
+        <entry>TOp</entry>
+        <entry>Top</entry>
+        <entry>Net</entry>
+        <entry>NetSpe</entry>
+        <entry encoding="base64">XDxwYXJhbV9uYW1lX2RpY3RcPg==</entry>
+        <entry encoding="base64">XDxfcGFyYW1fbmFtZXNcPg==</entry>
+        <entry encoding="base64">XDxkd19jb252XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
+        <entry>Tlist</entry>
       </history-cmd>
       <history-expr />
       <history-input />
