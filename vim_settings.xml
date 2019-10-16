@@ -21,12 +21,12 @@
         <mark key="." line="232" column="39" />
         <mark key="^" line="283" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/model_libs.py" timestamp="1571192825626">
+      <file name="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/model_libs.py" timestamp="1571193357945">
         <mark key="'" line="1197" column="73" />
-        <mark key="[" line="833" column="0" />
-        <mark key="]" line="833" column="0" />
-        <mark key="^" line="833" column="26" />
-        <mark key="." line="833" column="0" />
+        <mark key="[" line="772" column="47" />
+        <mark key="]" line="772" column="48" />
+        <mark key="^" line="772" column="48" />
+        <mark key="." line="772" column="48" />
       </file>
       <file name="/Python Console" timestamp="1571136960440">
         <mark key="[" line="0" column="0" />
@@ -54,12 +54,12 @@
       <file name="/False" timestamp="1571137561716">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" timestamp="1571192808441">
-        <mark key="'" line="890" column="8" />
-        <mark key="[" line="867" column="45" />
-        <mark key="]" line="867" column="45" />
-        <mark key="." line="867" column="45" />
-        <mark key="^" line="867" column="34" />
+      <file name="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" timestamp="1571193948542">
+        <mark key="'" line="164" column="35" />
+        <mark key="[" line="1036" column="15" />
+        <mark key="]" line="1036" column="15" />
+        <mark key="." line="1036" column="15" />
+        <mark key="^" line="1036" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/solver.cpp" timestamp="1557036350529">
         <mark key="'" line="564" column="32" />
@@ -151,7 +151,6 @@
       <jump line="314" column="12" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
       <jump line="341" column="12" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
       <jump line="62" column="35" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
-      <jump line="164" column="35" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
       <jump line="165" column="12" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
       <jump line="234" column="25" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
       <jump line="235" column="42" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
@@ -193,6 +192,14 @@
       <jump line="1188" column="45" filename="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/model_libs.py" />
       <jump line="1196" column="7" filename="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/model_libs.py" />
       <jump line="1197" column="73" filename="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/model_libs.py" />
+      <jump line="1055" column="33" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="875" column="27" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="1037" column="63" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="1035" column="38" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="1030" column="12" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="1026" column="8" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="1043" column="29" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="164" column="35" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -202,46 +209,46 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxub3JtYWxpemF0aW9uc1w+</text>
+        <text encoding="base64">XDxNb2JpbGVOZXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtYm94X3NvdXJjZV9sYXllcnMgPSBbJ2NvbnY0XzMnLCAnZmM3JywgJ2NvbnY2XzInLCAnY29udjdfMicsICdjb252OF8yJywgJ2NvbnY5XzInXQogICAgICAgIHN0ZXBzID0gWzgsIDE2LCAzMiwgNjQsIDEwMCwgMzAwXQogICAgICAgICMgTDIgbm9ybWFsaXplIGNvbnY0XzMuCiAgICAgICAgbm9ybWFsaXphdGlvbnMgPSBbMjAsIC0xLCAtMSwgLTEsIC0xLCAtMV0KICAgICAgICBhc3BlY3RfcmF0aW9zID0gW1syLCAzXSwgWzIsIDNdLCBbMiwgM10sIFsyLCAzXSwgWzJdLCBbMl1dCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxpZiBTV0lUQ0hFUy5nZW5fc3NkIG9yIFNXSVRDSEVTLmdlbl9xc3NkOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNvbnY1Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2h1ZmZsZU5ldFYyKG5ldCwgJ2RhdGEnLCB1c2VfYm4pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIHN0YWdlMQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIHN0YWdlMQo=</text>
+        <text encoding="base64">ICAgICAgICAjIGNvbnY1Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIE5BTUUK</text>
+        <text encoding="base64">ICAgICAgICAjIHN0YWdlMQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5kZWZfc3NkX2V4dHJhX2xheWVycyh1c2VfYm4sIGxyX211bHQpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHN0YWdlMQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzc2RfZXh0cmFfbGF5ZXJzX2NvbmZpZyA+IDA6IAo=</text>
+        <text encoding="base64">ICAgIGlmIE5BTUUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fX2luaXRfc3NkX2NvbmZpZygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5kZWZfc3NkX2V4dHJhX2xheWVycyh1c2VfYm4sIGxyX211bHQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfc3NkX2NvbmZpZyhzZWxmKToK</text>
+        <text encoding="base64">ICAgICAgICBpZiBzc2RfZXh0cmFfbGF5ZXJzX2NvbmZpZyA+IDA6IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNodWZmbGVfbmV0X3YyX2JvZHkobmV0LCAnZHVtbXlfZGF0YScsIHVzZV9ibj1UcnVlLCBscl9tdWx0PTEuMCwKICAgICAgICAgICAgICAgICAgICAgICAgY2hhbm5lbF9tdWx0X2luZGV4PTIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fX2luaXRfc3NkX2NvbmZpZygpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxub3JtYWxpemF0aW9uc1w+</last-search>
+      <last-search encoding="base64">XDxNb2JpbGVOZXRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxub3JtYWxpemF0aW9uc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxNb2JpbGVOZXRcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>eval_type</last-substitute>
       <last-dir>1</last-dir>
@@ -261,14 +268,14 @@
         <entry encoding="base64">XDxwYXJhbV9uYW1lX2RpY3RcPg==</entry>
         <entry encoding="base64">XDxfcGFyYW1fbmFtZXNcPg==</entry>
         <entry encoding="base64">XDxkd19jb252XD4=</entry>
-        <entry encoding="base64">XDx1c2VfYm5cPg==</entry>
-        <entry encoding="base64">XDxNb2JpbGVOZXRcPg==</entry>
         <entry encoding="base64">XDx1c2VfcHJlX3RyYWluX21vZGVsXD4=</entry>
         <entry>MobileNet</entry>
         <entry>MultiBox</entry>
         <entry encoding="base64">XDxzdGVwc1w+</entry>
         <entry>step</entry>
         <entry encoding="base64">XDxub3JtYWxpemF0aW9uc1w+</entry>
+        <entry encoding="base64">XDx1c2VfYm5cPg==</entry>
+        <entry encoding="base64">XDxNb2JpbGVOZXRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>Tlist</entry>
@@ -322,6 +329,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
