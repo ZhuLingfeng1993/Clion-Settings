@@ -3,7 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1556862358438">
+      <file name="/Dummy.txt" timestamp="1571211625723">
+        <mark key="u" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="60" />
       </file>
@@ -21,12 +22,12 @@
         <mark key="." line="232" column="39" />
         <mark key="^" line="283" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/model_libs.py" timestamp="1571196472382">
-        <mark key="'" line="843" column="8" />
-        <mark key="[" line="790" column="44" />
-        <mark key="]" line="790" column="57" />
-        <mark key="." line="790" column="57" />
-        <mark key="^" line="790" column="57" />
+      <file name="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/model_libs.py" timestamp="1571207066492">
+        <mark key="'" line="659" column="8" />
+        <mark key="[" line="705" column="61" />
+        <mark key="]" line="705" column="61" />
+        <mark key="." line="705" column="61" />
+        <mark key="^" line="662" column="61" />
       </file>
       <file name="/Python Console" timestamp="1571194681220">
         <mark key="[" line="0" column="0" />
@@ -54,12 +55,12 @@
       <file name="/False" timestamp="1571137561716">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" timestamp="1571203823097">
+      <file name="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" timestamp="1571211594226">
         <mark key="'" line="564" column="21" />
-        <mark key="[" line="165" column="0" />
-        <mark key="]" line="165" column="0" />
-        <mark key="." line="165" column="0" />
-        <mark key="^" line="164" column="1" />
+        <mark key="[" line="836" column="17" />
+        <mark key="]" line="836" column="17" />
+        <mark key="." line="836" column="17" />
+        <mark key="^" line="835" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/solver.cpp" timestamp="1557036350529">
         <mark key="'" line="564" column="32" />
@@ -74,14 +75,18 @@
         <mark key="^" line="72" column="14" />
         <mark key="." line="72" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/proto/caffe.proto" timestamp="1571191752997">
-        <mark key="'" line="1076" column="43" />
+      <file name="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/proto/caffe.proto" timestamp="1571207455314">
+        <mark key="'" line="547" column="11" />
+        <mark key="[" line="1395" column="29" />
+        <mark key="]" line="1395" column="29" />
+        <mark key="." line="1395" column="29" />
+        <mark key="^" line="1395" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/layers/multibox_loss_layer.cpp" timestamp="1571201111037">
-        <mark key="[" line="235" column="0" />
-        <mark key="]" line="237" column="58" />
-        <mark key="^" line="246" column="20" />
-        <mark key="." line="235" column="0" />
+      <file name="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/layers/multibox_loss_layer.cpp" timestamp="1571207310346">
+        <mark key="[" line="224" column="41" />
+        <mark key="]" line="224" column="39" />
+        <mark key="." line="224" column="39" />
+        <mark key="^" line="224" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/layers/annotated_data_layer.cpp" timestamp="1550564175464">
         <mark key="'" line="242" column="8" />
@@ -107,10 +112,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="35" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
-      <jump line="165" column="12" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
-      <jump line="234" column="25" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
-      <jump line="235" column="42" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
       <jump line="237" column="28" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
       <jump line="239" column="54" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
       <jump line="240" column="123" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
@@ -119,7 +120,6 @@
       <jump line="247" column="22" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
       <jump line="472" column="0" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/proto/caffe.proto" />
       <jump line="1305" column="8" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/proto/caffe.proto" />
-      <jump line="547" column="11" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/proto/caffe.proto" />
       <jump line="1304" column="41" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/proto/caffe.proto" />
       <jump line="1495" column="61" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/proto/caffe.proto" />
       <jump line="1498" column="11" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/proto/caffe.proto" />
@@ -207,55 +207,60 @@
       <jump line="1200" column="75" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
       <jump line="1201" column="73" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
       <jump line="564" column="21" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="695" column="46" filename="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/model_libs.py" />
+      <jump line="705" column="61" filename="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/model_libs.py" />
+      <jump line="659" column="8" filename="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/model_libs.py" />
+      <jump line="1477" column="2" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/proto/caffe.proto" />
+      <jump line="547" column="11" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/proto/caffe.proto" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>True</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
-        <text>NAMES.resize</text>
+        <text>LOSS.vis</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">TkFNRVMucmVzaXplID0gInt9eHt9Ii5mb3JtYXQoUkVTSVpFLndpZHRoLCBSRVNJWkUuaGVpZ2h0KQo=</text>
+        <text encoding="base64">ICBvcHRpb25hbCBib29sIHZpc3VhbGl6ZSA9IDI2IFtkZWZhdWx0ID0gZmFsc2VdOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwgInByaW9yIGluZGV4OiAiIDw8IHAgPDwgc3RkOjplbmRsOwo=</text>
+        <text encoding="base64">ICAgIGlmICgK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwgInByaW9yIGluZGV4OiAiIDw8IHAgPDwgc3RkOjplbmRsOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCgocCAvIDYgJSAyMDAwID09IDApICYmIHAgPCAyMDAwKSB8fCAocCA+IDIwMDAgJiYgKChwLTIwMDApIC8gNiAlIDIwCiAgICAgICAgICA9PSAwKSkpIHsK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBscl9tdWx0KQo=</text>
+        <text encoding="base64">ICAgICAgaWYgKCgocCAvIDYgJSAyMDAwID09IDApICYmIHAgPCAyMDAwKSB8fCAocCA+IDIwMDAgJiYgKChwLTIwMDApIC8gNiAlIDIwCiAgICAgICAgICA9PSAwKSkpIHsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBscl9tdWx0KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBzZWxmLnNzZF93aWR0aF9jb25maWdbMV0sIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBscl9tdWx0KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBzZWxmLnNzZF93aWR0aF9jb25maWdbMF0sIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBzZWxmLnNzZF93aWR0aF9jb25maWdbMV0sIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2h1ZmZsZU5ldFYyKG5ldCwgJ2RhdGEnLCB1c2VfYm4pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBzZWxmLnNzZF93aWR0aF9jb25maWdbMF0sIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2h1ZmZsZU5ldFYyKG5ldCwgJ2RhdGEnLCB1c2VfYm4pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>NAMES.resize</last-search>
+      <last-search>LOSS.vis</last-search>
       <last-offset />
-      <last-pattern>NAMES.resize</last-pattern>
+      <last-pattern>LOSS.vis</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxNb2JpbGVOZXRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -263,26 +268,26 @@
     </search>
     <history>
       <history-search>
-        <entry>Top</entry>
         <entry>Net</entry>
         <entry>NetSpe</entry>
         <entry encoding="base64">XDxwYXJhbV9uYW1lX2RpY3RcPg==</entry>
         <entry encoding="base64">XDxfcGFyYW1fbmFtZXNcPg==</entry>
         <entry encoding="base64">XDx1c2VfcHJlX3RyYWluX21vZGVsXD4=</entry>
         <entry>MobileNet</entry>
-        <entry>MultiBox</entry>
         <entry>step</entry>
         <entry encoding="base64">XDxub3JtYWxpemF0aW9uc1w+</entry>
         <entry encoding="base64">XDx1c2VfYm5cPg==</entry>
         <entry encoding="base64">XDxNb2JpbGVOZXRcPg==</entry>
         <entry encoding="base64">XDxzdGVwc1w+</entry>
-        <entry encoding="base64">XDxkd19jb252XD4=</entry>
         <entry encoding="base64">XDxTaHVmZmxlQmxvY2tWMlw+</entry>
         <entry>check</entry>
         <entry encoding="base64">XDxjaGVja19uZXRcPg==</entry>
         <entry>datase</entry>
         <entry>crop</entry>
         <entry>NAMES.resize</entry>
+        <entry encoding="base64">XDxkd19jb252XD4=</entry>
+        <entry>MultiBox</entry>
+        <entry>LOSS.vis</entry>
       </history-search>
       <history-cmd>
         <entry>Tlist</entry>
