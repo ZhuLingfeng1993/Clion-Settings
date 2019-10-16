@@ -54,12 +54,12 @@
       <file name="/False" timestamp="1571137561716">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" timestamp="1571201411020">
+      <file name="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" timestamp="1571202594814">
         <mark key="'" line="1202" column="73" />
-        <mark key="[" line="136" column="24" />
-        <mark key="]" line="136" column="24" />
-        <mark key="." line="136" column="24" />
-        <mark key="^" line="136" column="18" />
+        <mark key="[" line="884" column="45" />
+        <mark key="]" line="884" column="18" />
+        <mark key="." line="884" column="18" />
+        <mark key="^" line="884" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/solver.cpp" timestamp="1557036350529">
         <mark key="'" line="564" column="32" />
@@ -210,10 +210,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.format(RESIZE.width, RESIZE.height)</text>
+        <text>6</text>
       </register>
       <register name="-" type="4">
-        <text>.format(RESIZE.width, RESIZE.height)</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
         <text>NAMES.resize</text>
