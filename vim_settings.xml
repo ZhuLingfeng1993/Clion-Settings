@@ -21,12 +21,12 @@
         <mark key="." line="232" column="39" />
         <mark key="^" line="283" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/model_libs.py" timestamp="1571155699785">
-        <mark key="'" line="809" column="23" />
-        <mark key="[" line="774" column="35" />
-        <mark key="]" line="774" column="35" />
-        <mark key="^" line="774" column="42" />
-        <mark key="." line="774" column="35" />
+      <file name="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/model_libs.py" timestamp="1571191463179">
+        <mark key="'" line="808" column="23" />
+        <mark key="[" line="833" column="0" />
+        <mark key="]" line="833" column="0" />
+        <mark key="^" line="833" column="26" />
+        <mark key="." line="833" column="0" />
       </file>
       <file name="/Python Console" timestamp="1571136960440">
         <mark key="[" line="0" column="0" />
@@ -54,12 +54,12 @@
       <file name="/False" timestamp="1571137561716">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" timestamp="1556862285760">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="938" column="2" />
-        <mark key="]" line="1159" column="33" />
-        <mark key="." line="1159" column="33" />
-        <mark key="^" line="1160" column="59" />
+      <file name="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" timestamp="1571191724326">
+        <mark key="'" line="886" column="8" />
+        <mark key="[" line="861" column="63" />
+        <mark key="]" line="861" column="71" />
+        <mark key="." line="861" column="69" />
+        <mark key="^" line="861" column="71" />
       </file>
       <file name="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/solver.cpp" timestamp="1557036350529">
         <mark key="'" line="564" column="32" />
@@ -73,6 +73,9 @@
         <mark key="]" line="71" column="39" />
         <mark key="^" line="71" column="38" />
         <mark key="." line="71" column="39" />
+      </file>
+      <file name="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/proto/caffe.proto" timestamp="1571191752997">
+        <mark key="'" line="1076" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/layers/annotated_data_layer.cpp" timestamp="1550564175464">
         <mark key="'" line="242" column="8" />
@@ -106,7 +109,6 @@
       <jump line="242" column="8" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/layers/annotated_data_layer.cpp" />
       <jump line="233" column="65" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/layers/detection_evaluate_layer.cpp" />
       <jump line="591" column="0" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
       <jump line="14" column="0" filename="$USER_HOME$/Projects/data_scripts_and_docs/scripts/count_label_category_from_list_file.py" />
       <jump line="630" column="78" filename="$USER_HOME$/Projects/caffe-q-ssd/include/caffe/util/bbox_util.hpp" />
       <jump line="653" column="38" filename="$USER_HOME$/Projects/caffe-q-ssd/include/caffe/util/bbox_util.hpp" />
@@ -137,55 +139,102 @@
       <jump line="703" column="17" filename="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/model_libs.py" />
       <jump line="791" column="35" filename="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/model_libs.py" />
       <jump line="795" column="23" filename="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/model_libs.py" />
+      <jump line="1025" column="29" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="1020" column="29" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="236" column="44" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="232" column="12" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="312" column="12" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="339" column="12" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="233" column="33" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="231" column="12" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="314" column="12" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="341" column="12" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="62" column="35" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="164" column="35" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="165" column="12" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="234" column="25" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="235" column="42" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="237" column="28" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="239" column="54" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="240" column="123" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="244" column="25" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="246" column="20" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="247" column="22" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="472" column="0" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/proto/caffe.proto" />
+      <jump line="1305" column="8" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/proto/caffe.proto" />
+      <jump line="547" column="11" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/proto/caffe.proto" />
+      <jump line="1304" column="41" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/proto/caffe.proto" />
+      <jump line="1495" column="61" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/proto/caffe.proto" />
+      <jump line="1498" column="11" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/proto/caffe.proto" />
+      <jump line="1505" column="28" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/proto/caffe.proto" />
+      <jump line="863" column="8" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="869" column="8" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="878" column="8" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="880" column="10" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="886" column="8" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="1506" column="17" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/proto/caffe.proto" />
+      <jump line="314" column="63" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/proto/caffe.proto" />
+      <jump line="315" column="10" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/proto/caffe.proto" />
+      <jump line="319" column="55" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/proto/caffe.proto" />
+      <jump line="323" column="43" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/proto/caffe.proto" />
+      <jump line="333" column="44" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/proto/caffe.proto" />
+      <jump line="334" column="17" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/proto/caffe.proto" />
+      <jump line="335" column="49" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/proto/caffe.proto" />
+      <jump line="336" column="17" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/proto/caffe.proto" />
+      <jump line="337" column="9" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/proto/caffe.proto" />
+      <jump line="404" column="64" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/proto/caffe.proto" />
+      <jump line="1075" column="59" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/proto/caffe.proto" />
+      <jump line="1076" column="43" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/proto/caffe.proto" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, ssd_extra_layers_config=0</text>
+        <text>conv9_2</text>
       </register>
       <register name="-" type="4">
-        <text>, ssd_extra_layers_config=0</text>
+        <text>conv9_2</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1c2VfYm5cPg==</text>
+        <text>step</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBuZXQsIGZyb21fbGF5ZXIsIHVzZV9ibiwgbHJfbXVsdD0xLjAsIAogICAgICAgICAgICAgICAgIGNoYW5uZWxfbXVsdF9pbmRleD0yLCBzc2RfZXh0cmFfbGF5ZXJzX2NvbmZpZz0wKToK</text>
+        <text encoding="base64">ICAgICAgICBtYm94X3NvdXJjZV9sYXllcnMgPSBbJ2NvbnY0XzMnLCAnZmM3JywgJ2NvbnY2XzInLCAnY29udjdfMicsICdjb252OF8yJywgJ2NvbnY5XzInXQogICAgICAgIHN0ZXBzID0gWzgsIDE2LCAzMiwgNjQsIDEwMCwgMzAwXQogICAgICAgICMgTDIgbm9ybWFsaXplIGNvbnY0XzMuCiAgICAgICAgbm9ybWFsaXphdGlvbnMgPSBbMjAsIC0xLCAtMSwgLTEsIC0xLCAtMV0KICAgICAgICBhc3BlY3RfcmF0aW9zID0gW1syLCAzXSwgWzIsIDNdLCBbMiwgM10sIFsyLCAzXSwgWzJdLCBbMl1dCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5kZWZfc3NkX2V4dHJhX2xheWVycyh1c2VfYm4sIGxyX211bHQpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGNvbnY1Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzc2RfZXh0cmFfbGF5ZXJzX2NvbmZpZyA+IDA6IAo=</text>
+        <text encoding="base64">ICAgICAgICAjIHN0YWdlMQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fX2luaXRfc3NkX2NvbmZpZygpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHN0YWdlMQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfc3NkX2NvbmZpZyhzZWxmKToK</text>
+        <text encoding="base64">ICAgIGlmIE5BTUUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNodWZmbGVfbmV0X3YyX2JvZHkobmV0LCAnZHVtbXlfZGF0YScsIHVzZV9ibj1UcnVlLCBscl9tdWx0PTEuMCwKICAgICAgICAgICAgICAgICAgICAgICAgY2hhbm5lbF9tdWx0X2luZGV4PTIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5kZWZfc3NkX2V4dHJhX2xheWVycyh1c2VfYm4sIGxyX211bHQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzc2RfZXh0cmFfbGF5ZXJzX2NvbmZpZyA+IDA6IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIGFkZF9zaHVmZmxlX25ldF92Ml9zc2RfZXh0cmFfbGF5ZXJzKG5ldCwgdXNlX2JuPUZhbHNlLCBscl9tdWx0PTEpOgogICAgZnJvbV9sYXllciA9IG5ldC5rZXlzKClbLTFdCgogICAgIyBzdGFnZTYKICAgIG91dF9sYXllciA9ICJzdGFnZTYiCiAgICBDb252Qk5MYXllcihuZXQsIGZyb21fbGF5ZXIsIG91dF9sYXllciwgdXNlX2JhdGNobm9ybSwgdXNlX3JlbHUsIDI1NiwgMSwgMCwKICAgICAgICAgICAgICAgIDEsCiAgICAgICAgICAgICAgICBscl9tdWx0PWxyX211bHQpCgogICAgd2lkdGhfY29uZmlnID0gewogICAgICAgIDAuMjU6ICgyNCwgNDgsIDk2LCA1MTIpLAogICAgICAgIDAuMzM6ICgzMiwgNjQsIDEyOCwgNTEyKSwKICAgICAgICAwLjU6ICg0OCwgOTYsIDE5MiwgMTAyNCksCiAgICAgICAgMS4wOiAoMTE2LCAyMzIsIDQ2NCwgMTAyNCksCiAgICAgICAgMS41OiAoMTc2LCAzNTIsIDcwNCwgMTAyNCksCiAgICAgICAgMi4wOiAoMjQ0LCA0ODgsIDk3NiwgMjA0OCksCiAgICB9CiAgCiAgICB3aWR0aF9jb25maWcgPSB3aWR0aF9jb25maWdbY2hhbm5lbF9tdWx0X2luZGV4XQogICAgYmxvY2tfY29uZmlnID0gWwogICAgICAgICMgb3V0X2NoYW5uZWxzLCBzdHJpZGUsIGRpbGF0aW9uLCBudW1fYmxvY2tzLCBzdGFnZV90eXBlCiAgICAgICAgKHdpZHRoX2NvbmZpZ1swXSwgMiwgMSwgNCwgJ2InKSwgICMgczgKICAgICAgICAod2lkdGhfY29uZmlnWzFdLCAyLCAxLCA4LCAnYicpLCAgIyBzMTYKICAgICAgICAod2lkdGhfY29uZmlnWzJdLCAyLCAxLCA0LCAnYicpLCAgIyBzMzIKICAgIF0KICAgIGNoYW5uZWxfbXVsdCA9IDEuMAogICAgCiAgICAjIHN0YWdlMQogICAgb3V0X2xheWVyID0gJ3N0YWdlMS9jb252JwogICAgU2h1ZmZsZUJsb2NrVjIobmV0LCBmcm9tX2xheWVyLCBvdXRfbGF5ZXIsIDIsIDI0LCB1c2VfYm4sCiAgICAgICAgICAgICAgICAgICBjaGFubmVsX211bHQ9Y2hhbm5lbF9tdWx0LCBscl9tdWx0PWxyX211bHQsCiAgICAgICAgICAgICAgICAgICBub3JtYWxfY29udj1UcnVlLCBrZXJuZWxfc2l6ZT0zKQogICAgZnJvbV9sYXllciA9IG91dF9sYXllcgogICAgb3V0X2xheWVyID0gJ3N0YWdlMS9wb29sJwogICAgbmV0W291dF9sYXllcl0gPSBMLlBvb2xpbmcobmV0W2Zyb21fbGF5ZXJdLCBwb29sPVAuUG9vbGluZy5NQVgsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBrZXJuZWxfc2l6ZT0zLCBzdHJpZGU9MikKICAgIAogICAgIyBzaHVmZmxlIGJsb2NrcwogICAgZnJvbV9sYXllciA9IG91dF9sYXllcgogICAgZm9yIGksIGNvbmZpZyBpbiBlbnVtZXJhdGUoYmxvY2tfY29uZmlnKToKICAgICAgICAjIE5vdGU6IGRpbGF0aW9uIGFuZCBzdGFnZV90eXBlIG5vdCB1c2VkLgogICAgICAgIG91dF9jaGFubmVscywgc3RyaWRlLCBkaWxhdGlvbiwgbnVtX2Jsb2Nrcywgc3RhZ2VfdHlwZSA9IGNvbmZpZwogICAgICAgIHN0YWdlX3ByZWZpeCA9ICdzdGFnZV97fScuZm9ybWF0KGkgKyAyKQogICAgICAgIG91dF9sYXllciA9IHN0YWdlX3ByZWZpeCArICdfMScKICAgICAgICBTaHVmZmxlQmxvY2tWMihuZXQsIGZyb21fbGF5ZXIsIG91dF9sYXllciwgc3RyaWRlLCBvdXRfY2hhbm5lbHMsCiAgICAgICAgICAgICAgICAgICAgICAgdXNlX2JuLCBjaGFubmVsX211bHQ9Y2hhbm5lbF9tdWx0LCBscl9tdWx0PWxyX211bHQpCiAgICAgICAgZm9yIGogaW4gcmFuZ2UoMSwgbnVtX2Jsb2Nrcyk6CiAgICAgICAgICAgIGZyb21fbGF5ZXIgPSBvdXRfbGF5ZXIgKyAnL3NodWZmbGUnCiAgICAgICAgICAgIG91dF9sYXllciA9IHN0YWdlX3ByZWZpeCArICdfe30nLmZvcm1hdChqICsgMSkKICAgICAgICAgICAgU2h1ZmZsZUJsb2NrVjIobmV0LCBmcm9tX2xheWVyLCBvdXRfbGF5ZXIsIDEsIG91dF9jaGFubmVscywKICAgICAgICAgICAgICAgICAgICAgICAgICAgdXNlX2JuLCBjaGFubmVsX211bHQ9Y2hhbm5lbF9tdWx0LCBscl9tdWx0PWxyX211bHQpCiAgICAgICAgZnJvbV9sYXllciA9IG91dF9sYXllciArICcvc2h1ZmZsZScK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fX2luaXRfc3NkX2NvbmZpZygpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfc3NkX2NvbmZpZyhzZWxmKToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBkZWZfc3NkX2V4dHJhX2xheWVycyhzZWxmLCBzc2RfZXh0cmFfbGF5ZXJzX2NvbmZpZywgdXNlX2JuLCBscl9tdWx0KToKICAgICAgICAjIHN0YWdlNgogICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHNodWZmbGVfbmV0X3YyX2JvZHkobmV0LCAnZHVtbXlfZGF0YScsIHVzZV9ibj1UcnVlLCBscl9tdWx0PTEuMCwKICAgICAgICAgICAgICAgICAgICAgICAgY2hhbm5lbF9tdWx0X2luZGV4PTIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1c2VfYm5cPg==</last-search>
+      <last-search>step</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1c2VfYm5cPg==</last-pattern>
+      <last-pattern>step</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>eval_type</last-substitute>
       <last-dir>1</last-dir>
@@ -193,8 +242,6 @@
     </search>
     <history>
       <history-search>
-        <entry>QUA</entry>
-        <entry>all_anno</entry>
         <entry>gen_ssd</entry>
         <entry>w</entry>
         <entry>solver</entry>
@@ -209,6 +256,12 @@
         <entry encoding="base64">XDxfcGFyYW1fbmFtZXNcPg==</entry>
         <entry encoding="base64">XDxkd19jb252XD4=</entry>
         <entry encoding="base64">XDx1c2VfYm5cPg==</entry>
+        <entry encoding="base64">XDxNb2JpbGVOZXRcPg==</entry>
+        <entry encoding="base64">XDx1c2VfcHJlX3RyYWluX21vZGVsXD4=</entry>
+        <entry>MobileNet</entry>
+        <entry>MultiBox</entry>
+        <entry encoding="base64">XDxzdGVwc1w+</entry>
+        <entry>step</entry>
       </history-search>
       <history-cmd>
         <entry>Tlist</entry>
@@ -256,6 +309,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed 2</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
