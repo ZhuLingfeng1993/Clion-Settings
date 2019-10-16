@@ -21,8 +21,8 @@
         <mark key="." line="232" column="39" />
         <mark key="^" line="283" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/model_libs.py" timestamp="1571191463179">
-        <mark key="'" line="808" column="23" />
+      <file name="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/model_libs.py" timestamp="1571192825626">
+        <mark key="'" line="1197" column="73" />
         <mark key="[" line="833" column="0" />
         <mark key="]" line="833" column="0" />
         <mark key="^" line="833" column="26" />
@@ -54,12 +54,12 @@
       <file name="/False" timestamp="1571137561716">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" timestamp="1571191724326">
-        <mark key="'" line="886" column="8" />
-        <mark key="[" line="861" column="63" />
-        <mark key="]" line="861" column="71" />
-        <mark key="." line="861" column="69" />
-        <mark key="^" line="861" column="71" />
+      <file name="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" timestamp="1571192808441">
+        <mark key="'" line="890" column="8" />
+        <mark key="[" line="867" column="45" />
+        <mark key="]" line="867" column="45" />
+        <mark key="." line="867" column="45" />
+        <mark key="^" line="867" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/solver.cpp" timestamp="1557036350529">
         <mark key="'" line="564" column="32" />
@@ -186,16 +186,23 @@
       <jump line="404" column="64" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/proto/caffe.proto" />
       <jump line="1075" column="59" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/proto/caffe.proto" />
       <jump line="1076" column="43" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/proto/caffe.proto" />
+      <jump line="868" column="8" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="874" column="8" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="884" column="8" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="890" column="8" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="1188" column="45" filename="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/model_libs.py" />
+      <jump line="1196" column="7" filename="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/model_libs.py" />
+      <jump line="1197" column="73" filename="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/model_libs.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>conv9_2</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>conv9_2</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>step</text>
+        <text encoding="base64">XDxub3JtYWxpemF0aW9uc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBtYm94X3NvdXJjZV9sYXllcnMgPSBbJ2NvbnY0XzMnLCAnZmM3JywgJ2NvbnY2XzInLCAnY29udjdfMicsICdjb252OF8yJywgJ2NvbnY5XzInXQogICAgICAgIHN0ZXBzID0gWzgsIDE2LCAzMiwgNjQsIDEwMCwgMzAwXQogICAgICAgICMgTDIgbm9ybWFsaXplIGNvbnY0XzMuCiAgICAgICAgbm9ybWFsaXphdGlvbnMgPSBbMjAsIC0xLCAtMSwgLTEsIC0xLCAtMV0KICAgICAgICBhc3BlY3RfcmF0aW9zID0gW1syLCAzXSwgWzIsIDNdLCBbMiwgM10sIFsyLCAzXSwgWzJdLCBbMl1dCg==</text>
@@ -232,9 +239,9 @@
       </register>
     </registers>
     <search>
-      <last-search>step</last-search>
+      <last-search encoding="base64">XDxub3JtYWxpemF0aW9uc1w+</last-search>
       <last-offset />
-      <last-pattern>step</last-pattern>
+      <last-pattern encoding="base64">XDxub3JtYWxpemF0aW9uc1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>eval_type</last-substitute>
       <last-dir>1</last-dir>
@@ -242,7 +249,6 @@
     </search>
     <history>
       <history-search>
-        <entry>gen_ssd</entry>
         <entry>w</entry>
         <entry>solver</entry>
         <entry>solverparam</entry>
@@ -262,6 +268,7 @@
         <entry>MultiBox</entry>
         <entry encoding="base64">XDxzdGVwc1w+</entry>
         <entry>step</entry>
+        <entry encoding="base64">XDxub3JtYWxpemF0aW9uc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>Tlist</entry>
