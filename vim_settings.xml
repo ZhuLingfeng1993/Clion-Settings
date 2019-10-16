@@ -54,12 +54,12 @@
       <file name="/False" timestamp="1571137561716">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" timestamp="1571194782342">
-        <mark key="'" line="1045" column="29" />
-        <mark key="[" line="862" column="80" />
-        <mark key="]" line="863" column="29" />
-        <mark key="." line="863" column="29" />
-        <mark key="^" line="863" column="29" />
+      <file name="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" timestamp="1571201411020">
+        <mark key="'" line="1202" column="73" />
+        <mark key="[" line="136" column="24" />
+        <mark key="]" line="136" column="24" />
+        <mark key="." line="136" column="24" />
+        <mark key="^" line="136" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/solver.cpp" timestamp="1557036350529">
         <mark key="'" line="564" column="32" />
@@ -76,6 +76,12 @@
       </file>
       <file name="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/proto/caffe.proto" timestamp="1571191752997">
         <mark key="'" line="1076" column="43" />
+      </file>
+      <file name="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/layers/multibox_loss_layer.cpp" timestamp="1571201111037">
+        <mark key="[" line="235" column="0" />
+        <mark key="]" line="237" column="58" />
+        <mark key="^" line="246" column="20" />
+        <mark key="." line="235" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/layers/annotated_data_layer.cpp" timestamp="1550564175464">
         <mark key="'" line="242" column="8" />
@@ -101,39 +107,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1497" column="26" filename="$USER_HOME$/Projects/caffe-q-ssd/distribute/proto/caffe.proto" />
-      <jump line="262" column="38" filename="$USER_HOME$/Projects/caffe-q-ssd/distribute/proto/caffe.proto" />
-      <jump line="315" column="12" filename="$USER_HOME$/Projects/caffe-q-ssd/distribute/proto/caffe.proto" />
-      <jump line="345" column="14" filename="$USER_HOME$/Projects/caffe-q-ssd/distribute/proto/caffe.proto" />
-      <jump line="350" column="22" filename="$USER_HOME$/Projects/caffe-q-ssd/distribute/proto/caffe.proto" />
-      <jump line="358" column="17" filename="$USER_HOME$/Projects/caffe-q-ssd/distribute/proto/caffe.proto" />
-      <jump line="564" column="32" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/solver.cpp" />
-      <jump line="194" column="28" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/util/bbox_util.cpp" />
-      <jump line="117" column="26" filename="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/net_spec.py" />
-      <jump line="104" column="8" filename="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/net_spec.py" />
-      <jump line="99" column="8" filename="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/net_spec.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/net_spec.py" />
-      <jump line="43" column="18" filename="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/net_spec.py" />
-      <jump line="116" column="12" filename="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/net_spec.py" />
-      <jump line="27" column="4" filename="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/net_spec.py" />
-      <jump line="243" column="0" filename="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/net_spec.py" />
-      <jump line="689" column="36" filename="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/model_libs.py" />
-      <jump line="700" column="45" filename="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/model_libs.py" />
-      <jump line="653" column="8" filename="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/model_libs.py" />
-      <jump line="688" column="13" filename="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/model_libs.py" />
-      <jump line="791" column="35" filename="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/model_libs.py" />
-      <jump line="795" column="23" filename="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/model_libs.py" />
-      <jump line="1025" column="29" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
-      <jump line="1020" column="29" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
-      <jump line="236" column="44" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
-      <jump line="232" column="12" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
-      <jump line="312" column="12" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
-      <jump line="339" column="12" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
-      <jump line="233" column="33" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
-      <jump line="231" column="12" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
-      <jump line="314" column="12" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
-      <jump line="341" column="12" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
       <jump line="62" column="35" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
       <jump line="165" column="12" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
       <jump line="234" column="25" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
@@ -201,55 +174,88 @@
       <jump line="836" column="16" filename="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/model_libs.py" />
       <jump line="619" column="6" filename="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/model_libs.py" />
       <jump line="843" column="8" filename="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/model_libs.py" />
+      <jump line="860" column="42" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="1205" column="1" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="1206" column="6" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="57" column="26" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="58" column="9" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="67" column="38" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="69" column="13" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="72" column="12" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="155" column="16" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="292" column="12" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="564" column="21" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="167" column="8" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="168" column="35" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="169" column="46" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="170" column="58" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="171" column="41" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="172" column="49" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="173" column="58" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="174" column="49" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="175" column="14" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="176" column="14" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="178" column="7" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="1325" column="21" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="1358" column="21" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="134" column="8" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="136" column="20" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="144" column="35" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="146" column="48" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="148" column="50" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="150" column="36" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="1200" column="75" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="1201" column="73" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>width_config</text>
+        <text>.format(RESIZE.width, RESIZE.height)</text>
       </register>
       <register name="-" type="4">
-        <text>width_config</text>
+        <text>.format(RESIZE.width, RESIZE.height)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTaHVmZmxlQmxvY2tWMlw+</text>
+        <text>NAMES.resize</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBpbl9jaGFubmVscz1zZWxmLnNzZF93aWR0aF9jb25maWdbMF0sIGxyX211bHQ9bHJfbXVsdCkK</text>
+        <text encoding="base64">TkFNRVMucmVzaXplID0gInt9eHt9Ii5mb3JtYXQoUkVTSVpFLndpZHRoLCBSRVNJWkUuaGVpZ2h0KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBscl9tdWx0KQo=</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwgInByaW9yIGluZGV4OiAiIDw8IHAgPDwgc3RkOjplbmRsOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBscl9tdWx0KQo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBzZWxmLnNzZF93aWR0aF9jb25maWdbMV0sIAo=</text>
+        <text encoding="base64">ICAgICAgaWYgKCgocCAvIDYgJSAyMDAwID09IDApICYmIHAgPCAyMDAwKSB8fCAocCA+IDIwMDAgJiYgKChwLTIwMDApIC8gNiAlIDIwCiAgICAgICAgICA9PSAwKSkpIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBzZWxmLnNzZF93aWR0aF9jb25maWdbMF0sIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBscl9tdWx0KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2h1ZmZsZU5ldFYyKG5ldCwgJ2RhdGEnLCB1c2VfYm4pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBscl9tdWx0KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBzZWxmLnNzZF93aWR0aF9jb25maWdbMV0sIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNvbnY1Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBzZWxmLnNzZF93aWR0aF9jb25maWdbMF0sIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIHN0YWdlMQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2h1ZmZsZU5ldFYyKG5ldCwgJ2RhdGEnLCB1c2VfYm4pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIHN0YWdlMQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTaHVmZmxlQmxvY2tWMlw+</last-search>
+      <last-search>NAMES.resize</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTaHVmZmxlQmxvY2tWMlw+</last-pattern>
+      <last-pattern>NAMES.resize</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxNb2JpbGVOZXRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -257,11 +263,6 @@
     </search>
     <history>
       <history-search>
-        <entry>solver</entry>
-        <entry>solverparam</entry>
-        <entry>SolverParam</entry>
-        <entry>eval_type</entry>
-        <entry>TOp</entry>
         <entry>Top</entry>
         <entry>Net</entry>
         <entry>NetSpe</entry>
@@ -277,6 +278,11 @@
         <entry encoding="base64">XDxzdGVwc1w+</entry>
         <entry encoding="base64">XDxkd19jb252XD4=</entry>
         <entry encoding="base64">XDxTaHVmZmxlQmxvY2tWMlw+</entry>
+        <entry>check</entry>
+        <entry encoding="base64">XDxjaGVja19uZXRcPg==</entry>
+        <entry>datase</entry>
+        <entry>crop</entry>
+        <entry>NAMES.resize</entry>
       </history-search>
       <history-cmd>
         <entry>Tlist</entry>
