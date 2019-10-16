@@ -21,17 +21,17 @@
         <mark key="." line="232" column="39" />
         <mark key="^" line="283" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/model_libs.py" timestamp="1571193357945">
-        <mark key="'" line="1197" column="73" />
-        <mark key="[" line="772" column="47" />
-        <mark key="]" line="772" column="48" />
-        <mark key="^" line="772" column="48" />
-        <mark key="." line="772" column="48" />
+      <file name="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/model_libs.py" timestamp="1571194629621">
+        <mark key="'" line="1203" column="7" />
+        <mark key="[" line="820" column="33" />
+        <mark key="]" line="820" column="33" />
+        <mark key="^" line="1190" column="22" />
+        <mark key="." line="820" column="33" />
       </file>
-      <file name="/Python Console" timestamp="1571136960440">
+      <file name="/Python Console" timestamp="1571194681220">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1571137172565">
+      <file name="/fragment.py" timestamp="1571194373980">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/layers/detection_evaluate_layer.cpp" timestamp="1556075899045">
@@ -54,12 +54,12 @@
       <file name="/False" timestamp="1571137561716">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" timestamp="1571193948542">
-        <mark key="'" line="164" column="35" />
-        <mark key="[" line="1036" column="15" />
-        <mark key="]" line="1036" column="15" />
-        <mark key="." line="1036" column="15" />
-        <mark key="^" line="1036" column="14" />
+      <file name="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" timestamp="1571194782342">
+        <mark key="'" line="1045" column="29" />
+        <mark key="[" line="862" column="80" />
+        <mark key="]" line="863" column="29" />
+        <mark key="." line="863" column="29" />
+        <mark key="^" line="863" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/solver.cpp" timestamp="1557036350529">
         <mark key="'" line="564" column="32" />
@@ -68,11 +68,11 @@
         <mark key="." line="550" column="27" />
         <mark key="^" line="550" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/test/test_model_libs.py" timestamp="1571155721714">
-        <mark key="[" line="71" column="39" />
-        <mark key="]" line="71" column="39" />
-        <mark key="^" line="71" column="38" />
-        <mark key="." line="71" column="39" />
+      <file name="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/test/test_model_libs.py" timestamp="1571194267419">
+        <mark key="[" line="72" column="11" />
+        <mark key="]" line="72" column="14" />
+        <mark key="^" line="72" column="14" />
+        <mark key="." line="72" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/proto/caffe.proto" timestamp="1571191752997">
         <mark key="'" line="1076" column="43" />
@@ -101,10 +101,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="4" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/layers/annotated_data_layer.cpp" />
-      <jump line="243" column="6" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/layers/annotated_data_layer.cpp" />
-      <jump line="285" column="31" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/layers/annotated_data_layer.cpp" />
-      <jump line="286" column="10" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/layers/annotated_data_layer.cpp" />
       <jump line="148" column="37" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/layers/annotated_data_layer.cpp" />
       <jump line="242" column="8" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/layers/annotated_data_layer.cpp" />
       <jump line="233" column="65" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/layers/detection_evaluate_layer.cpp" />
@@ -198,21 +194,26 @@
       <jump line="1035" column="38" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
       <jump line="1030" column="12" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
       <jump line="1026" column="8" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
-      <jump line="1043" column="29" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
       <jump line="164" column="35" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="1043" column="29" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
+      <jump line="772" column="47" filename="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/model_libs.py" />
+      <jump line="777" column="46" filename="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/model_libs.py" />
+      <jump line="774" column="4" filename="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/model_libs.py" />
+      <jump line="1190" column="41" filename="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/model_libs.py" />
+      <jump line="1203" column="7" filename="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/model_libs.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/shuffle</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxNb2JpbGVOZXRcPg==</text>
+        <text encoding="base64">XDxzdGVwc1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxpZiBTV0lUQ0hFUy5nZW5fc3NkIG9yIFNXSVRDSEVTLmdlbl9xc3NkOgo=</text>
+      <register name="0" type="4">
+        <text>/shuffle</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU2h1ZmZsZU5ldFYyKG5ldCwgJ2RhdGEnLCB1c2VfYm4pCg==</text>
@@ -246,11 +247,11 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxNb2JpbGVOZXRcPg==</last-search>
+      <last-search encoding="base64">XDxzdGVwc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxNb2JpbGVOZXRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzdGVwc1w+</last-pattern>
       <last-replace>~</last-replace>
-      <last-substitute>eval_type</last-substitute>
+      <last-substitute encoding="base64">XDxNb2JpbGVOZXRcPg==</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -271,11 +272,11 @@
         <entry encoding="base64">XDx1c2VfcHJlX3RyYWluX21vZGVsXD4=</entry>
         <entry>MobileNet</entry>
         <entry>MultiBox</entry>
-        <entry encoding="base64">XDxzdGVwc1w+</entry>
         <entry>step</entry>
         <entry encoding="base64">XDxub3JtYWxpemF0aW9uc1w+</entry>
         <entry encoding="base64">XDx1c2VfYm5cPg==</entry>
         <entry encoding="base64">XDxNb2JpbGVOZXRcPg==</entry>
+        <entry encoding="base64">XDxzdGVwc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>Tlist</entry>
