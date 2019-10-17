@@ -55,7 +55,7 @@
       <file name="/False" timestamp="1571137561716">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" timestamp="1571211594226">
+      <file name="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" timestamp="1571281150072">
         <mark key="'" line="564" column="21" />
         <mark key="[" line="836" column="17" />
         <mark key="]" line="836" column="17" />
@@ -82,11 +82,12 @@
         <mark key="." line="1395" column="29" />
         <mark key="^" line="1395" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/layers/multibox_loss_layer.cpp" timestamp="1571207310346">
-        <mark key="[" line="224" column="41" />
-        <mark key="]" line="224" column="39" />
-        <mark key="." line="224" column="39" />
-        <mark key="^" line="224" column="39" />
+      <file name="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/layers/multibox_loss_layer.cpp" timestamp="1571282293683">
+        <mark key="'" line="187" column="43" />
+        <mark key="[" line="245" column="0" />
+        <mark key="]" line="245" column="23" />
+        <mark key="." line="245" column="0" />
+        <mark key="^" line="246" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/layers/annotated_data_layer.cpp" timestamp="1550564175464">
         <mark key="'" line="242" column="8" />
@@ -112,11 +113,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="239" column="54" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
-      <jump line="240" column="123" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
-      <jump line="244" column="25" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
-      <jump line="246" column="20" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
-      <jump line="247" column="22" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
       <jump line="472" column="0" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/proto/caffe.proto" />
       <jump line="1305" column="8" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/proto/caffe.proto" />
       <jump line="1304" column="41" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/proto/caffe.proto" />
@@ -212,19 +208,24 @@
       <jump line="1477" column="2" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/proto/caffe.proto" />
       <jump line="547" column="11" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/proto/caffe.proto" />
       <jump line="36" column="57" filename="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/model_libs.py" />
+      <jump line="231" column="24" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/layers/multibox_loss_layer.cpp" />
+      <jump line="226" column="26" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/layers/multibox_loss_layer.cpp" />
+      <jump line="204" column="61" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/layers/multibox_loss_layer.cpp" />
+      <jump line="197" column="44" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/layers/multibox_loss_layer.cpp" />
+      <jump line="187" column="43" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/layers/multibox_loss_layer.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>True</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY3Y6OndhaXRLZXkoMCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiaWFzX3ByZWZpeFw+</text>
+        <text encoding="base64">XDxwcmlvcl9iYm94ZXNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBvcHRpb25hbCBib29sIHZpc3VhbGl6ZSA9IDI2IFtkZWZhdWx0ID0gZmFsc2VdOwo=</text>
+        <text encoding="base64">ICAgICAgY3Y6OndhaXRLZXkoMCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGlmICgK</text>
@@ -258,9 +259,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiaWFzX3ByZWZpeFw+</last-search>
+      <last-search encoding="base64">XDxwcmlvcl9iYm94ZXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiaWFzX3ByZWZpeFw+</last-pattern>
+      <last-pattern encoding="base64">XDxwcmlvcl9iYm94ZXNcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxNb2JpbGVOZXRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -268,7 +269,6 @@
     </search>
     <history>
       <history-search>
-        <entry>NetSpe</entry>
         <entry encoding="base64">XDxwYXJhbV9uYW1lX2RpY3RcPg==</entry>
         <entry encoding="base64">XDxfcGFyYW1fbmFtZXNcPg==</entry>
         <entry encoding="base64">XDx1c2VfcHJlX3RyYWluX21vZGVsXD4=</entry>
@@ -288,6 +288,7 @@
         <entry>MultiBox</entry>
         <entry>LOSS.vis</entry>
         <entry encoding="base64">XDxiaWFzX3ByZWZpeFw+</entry>
+        <entry encoding="base64">XDxwcmlvcl9iYm94ZXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>Tlist</entry>
