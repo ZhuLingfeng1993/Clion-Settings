@@ -22,8 +22,8 @@
         <mark key="." line="232" column="39" />
         <mark key="^" line="283" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/model_libs.py" timestamp="1571207066492">
-        <mark key="'" line="659" column="8" />
+      <file name="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/model_libs.py" timestamp="1571275138513">
+        <mark key="'" line="36" column="57" />
         <mark key="[" line="705" column="61" />
         <mark key="]" line="705" column="61" />
         <mark key="." line="705" column="61" />
@@ -112,7 +112,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="237" column="28" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
       <jump line="239" column="54" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
       <jump line="240" column="123" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
       <jump line="244" column="25" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
@@ -212,6 +211,7 @@
       <jump line="659" column="8" filename="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/model_libs.py" />
       <jump line="1477" column="2" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/proto/caffe.proto" />
       <jump line="547" column="11" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/proto/caffe.proto" />
+      <jump line="36" column="57" filename="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/model_libs.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -221,7 +221,7 @@
         <text>True</text>
       </register>
       <register name="/" type="4">
-        <text>LOSS.vis</text>
+        <text encoding="base64">XDxiaWFzX3ByZWZpeFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBvcHRpb25hbCBib29sIHZpc3VhbGl6ZSA9IDI2IFtkZWZhdWx0ID0gZmFsc2VdOwo=</text>
@@ -258,9 +258,9 @@
       </register>
     </registers>
     <search>
-      <last-search>LOSS.vis</last-search>
+      <last-search encoding="base64">XDxiaWFzX3ByZWZpeFw+</last-search>
       <last-offset />
-      <last-pattern>LOSS.vis</last-pattern>
+      <last-pattern encoding="base64">XDxiaWFzX3ByZWZpeFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxNb2JpbGVOZXRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -268,7 +268,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Net</entry>
         <entry>NetSpe</entry>
         <entry encoding="base64">XDxwYXJhbV9uYW1lX2RpY3RcPg==</entry>
         <entry encoding="base64">XDxfcGFyYW1fbmFtZXNcPg==</entry>
@@ -288,6 +287,7 @@
         <entry encoding="base64">XDxkd19jb252XD4=</entry>
         <entry>MultiBox</entry>
         <entry>LOSS.vis</entry>
+        <entry encoding="base64">XDxiaWFzX3ByZWZpeFw+</entry>
       </history-search>
       <history-cmd>
         <entry>Tlist</entry>
