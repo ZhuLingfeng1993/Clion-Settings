@@ -79,8 +79,12 @@
         <mark key="." line="245" column="0" />
         <mark key="^" line="246" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/object_detection/src/ObjectDetector.cpp" timestamp="1575881424324">
+      <file name="$USER_HOME$/Projects/object_detection/src/ObjectDetector.cpp" timestamp="1575881607586">
+        <mark key="'" line="22" column="22" />
         <mark key="[" line="5" column="0" />
+        <mark key="]" line="20" column="6" />
+        <mark key="^" line="20" column="6" />
+        <mark key="." line="20" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/net_spec.py" timestamp="1571134130291">
         <mark key="'" line="243" column="0" />
@@ -150,8 +154,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="863" column="8" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
-      <jump line="869" column="8" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
       <jump line="878" column="8" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
       <jump line="880" column="10" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
       <jump line="886" column="8" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
@@ -250,6 +252,8 @@
       <jump line="7" column="6" filename="$USER_HOME$/Projects/object_detection/include/MNNObjectDetector.hpp" />
       <jump line="14" column="5" filename="$USER_HOME$/Projects/object_detection/include/ObjectDetection.hpp" />
       <jump line="34" column="12" filename="$USER_HOME$/Projects/object_detection/src/ObjectDetector.hpp" />
+      <jump line="20" column="2" filename="$USER_HOME$/Projects/object_detection/src/ObjectDetector.cpp" />
+      <jump line="22" column="22" filename="$USER_HOME$/Projects/object_detection/src/ObjectDetector.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -259,7 +263,7 @@
         <text>$</text>
       </register>
       <register name="/" type="4">
-        <text>Transform</text>
+        <text encoding="base64">XDx0cmFuc1w+</text>
       </register>
       <register name="0" type="4">
         <text>aspect_ratio=</text>
@@ -296,9 +300,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Transform</last-search>
+      <last-search encoding="base64">XDx0cmFuc1w+</last-search>
       <last-offset />
-      <last-pattern>Transform</last-pattern>
+      <last-pattern encoding="base64">XDx0cmFuc1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxNb2JpbGVOZXRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -306,7 +310,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfcGFyYW1fbmFtZXNcPg==</entry>
         <entry encoding="base64">XDx1c2VfcHJlX3RyYWluX21vZGVsXD4=</entry>
         <entry>MobileNet</entry>
         <entry>step</entry>
@@ -326,6 +329,7 @@
         <entry encoding="base64">XDxiaWFzX3ByZWZpeFw+</entry>
         <entry encoding="base64">XDxwcmlvcl9iYm94ZXNcPg==</entry>
         <entry>Transform</entry>
+        <entry encoding="base64">XDx0cmFuc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>Tlist</entry>
