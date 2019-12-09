@@ -23,12 +23,17 @@
         <mark key="." line="630" column="78" />
         <mark key="^" line="630" column="78" />
       </file>
-      <file name="$USER_HOME$/Projects/object_detection/src/ObjectDetection.cpp" timestamp="1575906908879">
-        <mark key="'" line="86" column="41" />
-        <mark key="[" line="37" column="38" />
-        <mark key="]" line="35" column="22" />
-        <mark key="." line="35" column="22" />
-        <mark key="^" line="35" column="22" />
+      <file name="$USER_HOME$/Projects/object_detection/src/ObjectDetection.cpp" timestamp="1575909028460">
+        <mark key="[" line="58" column="55" />
+        <mark key="]" line="59" column="19" />
+        <mark key="." line="59" column="19" />
+        <mark key="^" line="59" column="19" />
+      </file>
+      <file name="$USER_HOME$/Projects/object_detection/src/main.cpp" timestamp="1575908249482">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="33" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="24" column="25" />
       </file>
       <file name="/False" timestamp="1571137561716">
         <mark key="[" line="0" column="0" />
@@ -39,10 +44,11 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="21" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/object_detection/src/ObjectDetection.hpp" timestamp="1575906821565">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Projects/object_detection/src/ObjectDetection.hpp" timestamp="1575908786992">
+        <mark key="[" line="25" column="21" />
+        <mark key="]" line="26" column="20" />
+        <mark key="." line="26" column="20" />
+        <mark key="^" line="26" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" timestamp="1571281150072">
         <mark key="'" line="564" column="21" />
@@ -163,8 +169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="880" column="10" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
-      <jump line="886" column="8" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
       <jump line="1506" column="17" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/proto/caffe.proto" />
       <jump line="314" column="63" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/proto/caffe.proto" />
       <jump line="315" column="10" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/proto/caffe.proto" />
@@ -263,68 +267,67 @@
       <jump line="20" column="2" filename="$USER_HOME$/Projects/object_detection/src/ObjectDetector.cpp" />
       <jump line="22" column="22" filename="$USER_HOME$/Projects/object_detection/src/ObjectDetector.cpp" />
       <jump line="69" column="41" filename="$USER_HOME$/Projects/object_detection/src/ObjectDetection.cpp" />
+      <jump line="43" column="20" filename="$USER_HOME$/Projects/object_detection/src/ObjectDetection.cpp" />
+      <jump line="30" column="20" filename="$USER_HOME$/Projects/object_detection/src/ObjectDetection.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>d::cout</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>d::cout</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYW1lcmFfaW1nXD4=</text>
+        <text>\ccrop</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y3Y6OlJlY3QgT2JqZWN0RGV0ZWN0aW9uOjpTZXRSb0koY29uc3QgSnNvbjo6VmFsdWUmIGNyb3Bfcm9pLCBjdjo6TWF0IGltYWdlKSB7Cg==</text>
+        <text encoding="base64">ICAvLyBQYXJzZSBjb25maWcgZmlsZS4KICBMT0coSU5GTykgPDwgIlBhcnNlIGNvbmZpZyBmaWxlOiAiIDw8IGNvbmZpZ19maWxlOwogIEpzb246OlZhbHVlIGNvbmZpZzsKICBQYXJzZUpzb24oY29uZmlnX2ZpbGUsIGNvbmZpZyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBKc29uOjpWYWx1ZSBqc19yb290Owo=</text>
+        <text encoding="base64">ICBjdjo6TWF0IG9kX2Nyb3BfaW1nID0gY3Y6Ok1hdChjYW1lcmFfaW1nLCBvZF9jcm9wX3JvaSk7CiAgY3Y6OnJlc2l6ZShvZF9jcm9wX2ltZywgb2RfcmVzaXplLCBjdjo6U2l6ZShPRF9XSURUSCwgT0RfSEVJR0hUKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjdjo6UmVjdCBTZGRldFJvSShKc29uOjpWYWx1ZSYganNfcm9vdCwgY3Y6Ok1hdCBtYXQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dm9pZAo=</text>
+        <text encoding="base64">ICBjdjo6TWF0IGNhbWVyYV9pbWc7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>:</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBjdjo6VmlkZW9DYXB0dXJlIHZpZGVvX2luOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjdjo6UmVjdChjcm9wX3gsIGNyb3BfeSwgY3JvcF93LCBjcm9wX2gpOwo=</text>
+        <text encoding="base64">ICBjb25zdCBib29sIHVzZV92aWRlbyA9IGNvbmZpZ1sidXNlX3ZpZGVvIl0uYXNCb29sKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBfCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpbnQgY3JvcF94ID0gMCwgY3JvcF95ID0gMDsKICBpbnQgY3JvcF93ID0gY2FtZXJhX2ltZy5jb2xzLCBjcm9wX2ggPSBjYW1lcmFfaW1nLnJvd3M7CiAgQ0hFQ0tfRVEoanNfcm9vdFsib2RfY3JvcCJdLnNpemUoKSwgNCkgPDwgIkNvbmZpZyBvZF9jcm9wIHNpemUgZXJyb3IhIjsKICBjcm9wX3ggPSBqc19yb290WyJvZF9jcm9wIl1bMF0uYXNJbnQoKTsKICBjcm9wX3kgPSBqc19yb290WyJvZF9jcm9wIl1bMV0uYXNJbnQoKTsKICBjcm9wX3cgPSBjcm9wX3ggKyBqc19yb290WyJvZF9jcm9wIl1bMl0uYXNJbnQoKTsKICBjcm9wX2ggPSBjcm9wX3kgKyBqc19yb290WyJvZF9jcm9wIl1bM10uYXNJbnQoKTsKICBDSEVDS19HRShjcm9wX3gsIDApOwogIENIRUNLX0dFKGNyb3BfeSwgMCk7CiAgQ0hFQ0tfTFQoY3JvcF93LCBjYW1lcmFfaW1nLmNvbHMpOwogIENIRUNLX0xUKGNyb3BfaCwgY2FtZXJhX2ltZy5yb3dzKTsK</text>
+        <text encoding="base64">ICBjb25maWdfID0gY29uZmlnOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBTZXRSb0koanNfcm9vdCk7Cg==</text>
+        <text encoding="base64">ICBQYXJzZUpzb24oY29uZmlnX2ZpbGUsIGNvbmZpZyk7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>:</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjdjo6UmVjdCBvZF9jcm9wX3JvaSA9IGN2OjpSZWN0KGNyb3BfeCwgY3JvcF95LCBjcm9wX3csIGNyb3BfaCk7Cg==</text>
+        <text encoding="base64">ICAvLyBQYXJzZSBjb25maWcgZmlsZS4KICBMT0coSU5GTykgPDwgIlBhcnNlIGNvbmZpZyBmaWxlOiAiIDw8IGNvbmZpZ19maWxlOwogIEpzb246OlZhbHVlIGNvbmZpZzsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/js_root/config/gc</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjYW1lcmFfaW1nXD4=</last-search>
+      <last-search>\ccrop</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYW1lcmFfaW1nXD4=</last-pattern>
-      <last-replace>~</last-replace>
-      <last-substitute encoding="base64">XDxjYW1lcmFfaW1nXD4=</last-substitute>
+      <last-pattern>\ccrop</last-pattern>
+      <last-replace>config</last-replace>
+      <last-substitute>js_root</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>MobileNet</entry>
-        <entry>step</entry>
-        <entry encoding="base64">XDxub3JtYWxpemF0aW9uc1w+</entry>
         <entry encoding="base64">XDx1c2VfYm5cPg==</entry>
         <entry encoding="base64">XDxNb2JpbGVOZXRcPg==</entry>
         <entry encoding="base64">XDxzdGVwc1w+</entry>
@@ -332,7 +335,6 @@
         <entry>check</entry>
         <entry encoding="base64">XDxjaGVja19uZXRcPg==</entry>
         <entry>datase</entry>
-        <entry>crop</entry>
         <entry>NAMES.resize</entry>
         <entry encoding="base64">XDxkd19jb252XD4=</entry>
         <entry>MultiBox</entry>
@@ -342,10 +344,16 @@
         <entry>Transform</entry>
         <entry encoding="base64">XDx0cmFuc1w+</entry>
         <entry encoding="base64">XDxjYW1lcmFfaW1nXD4=</entry>
+        <entry>%s</entry>
+        <entry>js_root</entry>
+        <entry>crop</entry>
+        <entry>\ccrop</entry>
       </history-search>
       <history-cmd>
         <entry>Tlist</entry>
         <entry>w</entry>
+        <entry>%s/js_root/config_/gc</entry>
+        <entry>%s/js_root/config/gc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
