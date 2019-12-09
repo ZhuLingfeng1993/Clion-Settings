@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="/Python Console" timestamp="1571194681220">
@@ -23,13 +23,18 @@
         <mark key="." line="630" column="78" />
         <mark key="^" line="630" column="78" />
       </file>
+      <file name="$USER_HOME$/Projects/object_detection/src/ObjectDetection.cpp" timestamp="1575900474415">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="/False" timestamp="1571137561716">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/object_detection/CMakeLists.txt" timestamp="1575881308577">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/Projects/object_detection/CMakeLists.txt" timestamp="1575900388229">
+        <mark key="[" line="22" column="49" />
+        <mark key="]" line="22" column="38" />
+        <mark key="." line="22" column="37" />
         <mark key="^" line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/object_detection/src/ObjectDetection.hpp" timestamp="1575895652835">
@@ -85,9 +90,6 @@
         <mark key="]" line="20" column="6" />
         <mark key="^" line="20" column="6" />
         <mark key="." line="20" column="6" />
-      </file>
-      <file name="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/net_spec.py" timestamp="1571134130291">
-        <mark key="'" line="243" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1571211625723">
         <mark key="u" line="0" column="0" />
@@ -257,10 +259,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAke0NNQUtFX0NVUlJFTlRfU09VUkNFX0RJUn0vc3JjCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cmFuc1w+</text>
@@ -269,31 +271,31 @@
         <text>aspect_ratio=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAke0NNQUtFX0NVUlJFTlRfU09VUkNFX0RJUn0vc3JjCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPGdsb2c+Igo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAke0NNQUtFX0NVUlJFTlRfU09VUkNFX0RJUn0vaW5jbHVkZS9sY20K</text>
+        <text encoding="base64">ICBKc29uOjpWYWx1ZSBqc19yb290Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAke0NNQUtFX0NVUlJFTlRfU09VUkNFX0RJUn0vaW5jbHVkZS9tbm4K</text>
+        <text encoding="base64">ICAvLyBQYXJzZSBqc29uIGNvbmZpZwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">U0VUIChDTUFLRV9VU0VfUkVMQVRJVkVfUEFUSFMgT04pCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAke0NNQUtFX0NVUlJFTlRfU09VUkNFX0RJUn0vc3JjCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAke0NNQUtFX0NVUlJFTlRfU09VUkNFX0RJUn0vaW5jbHVkZS9tbm4vaW1hZ2VIZWxwZXIK</text>
-      </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAke0NNQUtFX0NVUlJFTlRfU09VUkNFX0RJUn0vaW5jbHVkZS9sY20K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAke0NNQUtFX0NVUlJFTlRfU09VUkNFX0RJUn0vaW5jbHVkZS9tbm4K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAke0NNQUtFX0NVUlJFTlRfU09VUkNFX0RJUn0vaW5jbHVkZS9pbWFnZUhlbHBlcgo=</text>
+        <text encoding="base64">U0VUIChDTUFLRV9VU0VfUkVMQVRJVkVfUEFUSFMgT04pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
