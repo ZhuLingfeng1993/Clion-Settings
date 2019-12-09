@@ -26,11 +26,17 @@
       <file name="/False" timestamp="1571137561716">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/object_detection/CMakeLists.txt" timestamp="1575880640048">
-        <mark key="[" line="8" column="0" />
+      <file name="$USER_HOME$/Projects/object_detection/CMakeLists.txt" timestamp="1575881308577">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/object_detection/src/ObjectDetection.hpp" timestamp="1575881257031">
+        <mark key="[" line="7" column="29" />
         <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
-        <mark key="^" line="24" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" timestamp="1571281150072">
         <mark key="'" line="564" column="21" />
@@ -72,6 +78,9 @@
         <mark key="]" line="245" column="23" />
         <mark key="." line="245" column="0" />
         <mark key="^" line="246" column="18" />
+      </file>
+      <file name="$USER_HOME$/Projects/object_detection/src/ObjectDetector.cpp" timestamp="1575881424324">
+        <mark key="[" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/net_spec.py" timestamp="1571134130291">
         <mark key="'" line="243" column="0" />
@@ -244,7 +253,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">U0VUIChDTUFLRV9VU0VfUkVMQVRJVkVfUEFUSFMgT04pCg==</text>
+        <text encoding="base64">ICAgICAgICAke0NNQUtFX0NVUlJFTlRfU09VUkNFX0RJUn0vc3JjCg==</text>
       </register>
       <register name="-" type="4">
         <text>$</text>
@@ -256,31 +265,31 @@
         <text>aspect_ratio=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U0VUIChDTUFLRV9VU0VfUkVMQVRJVkVfUEFUSFMgT04pCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAke0NNQUtFX0NVUlJFTlRfU09VUkNFX0RJUn0vc3JjCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAke0NNQUtFX0NVUlJFTlRfU09VUkNFX0RJUn0vaW5jbHVkZS9tbm4vaW1hZ2VIZWxwZXIK</text>
-      </register>
-      <register name="4" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAke0NNQUtFX0NVUlJFTlRfU09VUkNFX0RJUn0vaW5jbHVkZS9sY20K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAke0NNQUtFX0NVUlJFTlRfU09VUkNFX0RJUn0vaW5jbHVkZS9tbm4K</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAke0NNQUtFX0NVUlJFTlRfU09VUkNFX0RJUn0vaW5jbHVkZS9pbWFnZUhlbHBlcgo=</text>
+        <text encoding="base64">U0VUIChDTUFLRV9VU0VfUkVMQVRJVkVfUEFUSFMgT04pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAke0NNQUtFX0NVUlJFTlRfU09VUkNFX0RJUn0vaW5jbHVkZQo=</text>
+        <text encoding="base64">ICAgICAgICAke0NNQUtFX0NVUlJFTlRfU09VUkNFX0RJUn0vc3JjCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAke0NNQUtFX0NVUlJFTlRfU09VUkNFX0RJUn0vaW5jbHVkZQo=</text>
+        <text encoding="base64">ICAgICAgICAke0NNQUtFX0NVUlJFTlRfU09VUkNFX0RJUn0vaW5jbHVkZS9tbm4vaW1hZ2VIZWxwZXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y21ha2VfbWluaW11bV9yZXF1aXJlZChWRVJTSU9OIDMuJDEzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAke0NNQUtFX0NVUlJFTlRfU09VUkNFX0RJUn0vaW5jbHVkZS9pbWFnZUhlbHBlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
