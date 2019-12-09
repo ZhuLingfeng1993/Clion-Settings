@@ -49,6 +49,12 @@
         <mark key="." line="630" column="78" />
         <mark key="^" line="630" column="78" />
       </file>
+      <file name="$USER_HOME$/Projects/object_detection/include/ObjectDetector.hpp" timestamp="1575873803518">
+        <mark key="[" line="13" column="23" />
+        <mark key="]" line="13" column="22" />
+        <mark key="." line="13" column="22" />
+        <mark key="^" line="13" column="22" />
+      </file>
       <file name="/" timestamp="1571137562538">
         <mark key="[" line="0" column="0" />
       </file>
@@ -82,6 +88,13 @@
         <mark key="." line="1395" column="29" />
         <mark key="^" line="1395" column="29" />
       </file>
+      <file name="$USER_HOME$/Projects/object_detection/include/MNNObjectDetector.hpp" timestamp="1575873571786">
+        <mark key="'" line="7" column="6" />
+        <mark key="[" line="7" column="6" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/layers/multibox_loss_layer.cpp" timestamp="1571283701339">
         <mark key="'" line="187" column="43" />
         <mark key="[" line="245" column="0" />
@@ -113,7 +126,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1495" column="61" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/proto/caffe.proto" />
       <jump line="1498" column="11" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/proto/caffe.proto" />
       <jump line="1505" column="28" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/proto/caffe.proto" />
       <jump line="863" column="8" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
@@ -213,13 +225,14 @@
       <jump line="3413" column="57" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/util/bbox_util.cpp" />
       <jump line="3372" column="51" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/util/bbox_util.cpp" />
       <jump line="3347" column="5" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/util/bbox_util.cpp" />
+      <jump line="7" column="6" filename="$USER_HOME$/Projects/object_detection/include/MNNObjectDetector.hpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>MNN</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>MNN</text>
       </register>
       <register name="/" type="4">
         <text>Transform</text>
@@ -228,31 +241,31 @@
         <text>aspect_ratio=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmICgK</text>
+        <text encoding="base64">ICAvLyBkZXRlY3QgYSBzaW5nbGUgaW1hZ2UuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwgInByaW9yIGluZGV4OiAiIDw8IHAgPDwgc3RkOjplbmRsOwo=</text>
+        <text encoding="base64">ICAvL0RldGVjdG9yKGNvbnN0IENsYXNzaWZpZXJQYXJhbWV0ZXImIGNsYXNzaWZpZXJfcGFyYW0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGlmICgK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCgocCAvIDYgJSAyMDAwID09IDApICYmIHAgPCAyMDAwKSB8fCAocCA+IDIwMDAgJiYgKChwLTIwMDApIC8gNiAlIDIwCiAgICAgICAgICA9PSAwKSkpIHsK</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwgInByaW9yIGluZGV4OiAiIDw8IHAgPDwgc3RkOjplbmRsOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBscl9tdWx0KQo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBscl9tdWx0KQo=</text>
+        <text encoding="base64">ICAgICAgaWYgKCgocCAvIDYgJSAyMDAwID09IDApICYmIHAgPCAyMDAwKSB8fCAocCA+IDIwMDAgJiYgKChwLTIwMDApIC8gNiAlIDIwCiAgICAgICAgICA9PSAwKSkpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBzZWxmLnNzZF93aWR0aF9jb25maWdbMV0sIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBscl9tdWx0KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBzZWxmLnNzZF93aWR0aF9jb25maWdbMF0sIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBscl9tdWx0KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2h1ZmZsZU5ldFYyKG5ldCwgJ2RhdGEnLCB1c2VfYm4pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBzZWxmLnNzZF93aWR0aF9jb25maWdbMV0sIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
