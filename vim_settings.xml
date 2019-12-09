@@ -23,25 +23,25 @@
         <mark key="." line="630" column="78" />
         <mark key="^" line="630" column="78" />
       </file>
-      <file name="$USER_HOME$/Projects/object_detection/src/ObjectDetection.cpp" timestamp="1575900474415">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Projects/object_detection/src/ObjectDetection.cpp" timestamp="1575904961737">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+        <mark key="^" line="72" column="0" />
       </file>
       <file name="/False" timestamp="1571137561716">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/object_detection/CMakeLists.txt" timestamp="1575900388229">
-        <mark key="[" line="22" column="49" />
-        <mark key="]" line="22" column="38" />
-        <mark key="." line="22" column="37" />
-        <mark key="^" line="23" column="0" />
+      <file name="$USER_HOME$/Projects/object_detection/CMakeLists.txt" timestamp="1575901390609">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="21" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/object_detection/src/ObjectDetection.hpp" timestamp="1575895652835">
-        <mark key="[" line="7" column="29" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Projects/object_detection/src/ObjectDetection.hpp" timestamp="1575903374411">
+        <mark key="[" line="16" column="7" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" timestamp="1571281150072">
         <mark key="'" line="564" column="21" />
@@ -131,6 +131,9 @@
         <mark key="^" line="8" column="15" />
       </file>
       <file name="/" timestamp="1571137562538">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.mm" timestamp="1575902534945">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/object_detection/include/MNNObjectDetector.hpp" timestamp="1575873571786">
@@ -258,44 +261,44 @@
       <jump line="22" column="22" filename="$USER_HOME$/Projects/object_detection/src/ObjectDetector.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>c</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cmFuc1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>aspect_ratio=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBjcm9wX3cgPSBjcm9wX3ggKyBqc19yb290WyJvZF9jcm9wIl1bMl0uYXNJbnQoKSA+IGNhbWVyYV9pbWcuY29scyAtIDEgPwogICAgICAgICAgIGNhbWVyYV9pbWcuY29scyAtIDEgLSBjcm9wX3ggOiBqc19yb290WyJvZF9jcm9wIl1bMl0uYXNJbnQoKTsKICBjcm9wX2ggPSBjcm9wX3kgKyBqc19yb290WyJvZF9jcm9wIl1bM10uYXNJbnQoKSA+IGNhbWVyYV9pbWcucm93cyAtIDEgPwogICAgICAgICAgIGNhbWVyYV9pbWcucm93cyAtIDEgLSBjcm9wX3kgOiBqc19yb290WyJvZF9jcm9wIl1bM10uYXNJbnQoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAtMTsKICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGdsb2c+Igo=</text>
+        <text encoding="base64">ICBqCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBKc29uOjpWYWx1ZSBqc19yb290Owo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIC0xOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyBQYXJzZSBqc29uIGNvbmZpZwo=</text>
+        <text encoding="base64">ICB2b2lkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAke0NNQUtFX0NVUlJFTlRfU09VUkNFX0RJUn0vc3JjCg==</text>
+        <text encoding="base64">ICB2b2lkIGNvbmZpZ19uZXQoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBQcmVwcm9jZXNzIGFuZCBuZXQgaW5mZXIuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAke0NNQUtFX0NVUlJFTlRfU09VUkNFX0RJUn0vaW5jbHVkZS9sY20K</text>
+        <text encoding="base64">ICAvLyBUT0RPOiBBZGQgY29uZmlkZW5jZSB0aHJlc2hvbGQgY29uZmlnIGluIG5ldC4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAke0NNQUtFX0NVUlJFTlRfU09VUkNFX0RJUn0vaW5jbHVkZS9tbm4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">U0VUIChDTUFLRV9VU0VfUkVMQVRJVkVfUEFUSFMgT04pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -388,6 +391,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
