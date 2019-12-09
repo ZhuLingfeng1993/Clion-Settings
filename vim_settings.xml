@@ -3,6 +3,79 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Python Console" timestamp="1571194681220">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1571194373980">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/layers/detection_evaluate_layer.cpp" timestamp="1556075899045">
+        <mark key="'" line="233" column="65" />
+        <mark key="[" line="224" column="29" />
+        <mark key="]" line="224" column="26" />
+        <mark key="." line="224" column="26" />
+        <mark key="^" line="224" column="26" />
+      </file>
+      <file name="$USER_HOME$/Projects/caffe-q-ssd/include/caffe/util/bbox_util.hpp" timestamp="1557022774165">
+        <mark key="'" line="652" column="38" />
+        <mark key="[" line="626" column="19" />
+        <mark key="]" line="630" column="78" />
+        <mark key="." line="630" column="78" />
+        <mark key="^" line="630" column="78" />
+      </file>
+      <file name="/False" timestamp="1571137561716">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/object_detection/CMakeLists.txt" timestamp="1575880640048">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="24" column="7" />
+      </file>
+      <file name="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" timestamp="1571281150072">
+        <mark key="'" line="564" column="21" />
+        <mark key="[" line="836" column="17" />
+        <mark key="]" line="836" column="17" />
+        <mark key="." line="836" column="17" />
+        <mark key="^" line="835" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/solver.cpp" timestamp="1557036350529">
+        <mark key="'" line="564" column="32" />
+        <mark key="[" line="550" column="22" />
+        <mark key="]" line="550" column="27" />
+        <mark key="." line="550" column="27" />
+        <mark key="^" line="550" column="27" />
+      </file>
+      <file name="$USER_HOME$/Projects/object_detection/src/ObjectDetector.hpp" timestamp="1575880415317">
+        <mark key="'" line="35" column="12" />
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="14" column="15" />
+        <mark key="." line="14" column="15" />
+        <mark key="^" line="14" column="15" />
+      </file>
+      <file name="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/test/test_model_libs.py" timestamp="1571194267419">
+        <mark key="[" line="72" column="11" />
+        <mark key="]" line="72" column="14" />
+        <mark key="^" line="72" column="14" />
+        <mark key="." line="72" column="14" />
+      </file>
+      <file name="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/proto/caffe.proto" timestamp="1571207455314">
+        <mark key="'" line="547" column="11" />
+        <mark key="[" line="1395" column="29" />
+        <mark key="]" line="1395" column="29" />
+        <mark key="." line="1395" column="29" />
+        <mark key="^" line="1395" column="29" />
+      </file>
+      <file name="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/layers/multibox_loss_layer.cpp" timestamp="1571283701339">
+        <mark key="'" line="187" column="43" />
+        <mark key="[" line="245" column="0" />
+        <mark key="]" line="245" column="23" />
+        <mark key="." line="245" column="0" />
+        <mark key="^" line="246" column="18" />
+      </file>
+      <file name="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/net_spec.py" timestamp="1571134130291">
+        <mark key="'" line="243" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1571211625723">
         <mark key="u" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -29,63 +102,21 @@
         <mark key="." line="705" column="61" />
         <mark key="^" line="662" column="61" />
       </file>
-      <file name="/Python Console" timestamp="1571194681220">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/object_detection/include/ObjectDetection.hpp" timestamp="1575878472247">
+        <mark key="'" line="19" column="5" />
+        <mark key="[" line="15" column="19" />
+        <mark key="]" line="15" column="19" />
+        <mark key="." line="15" column="19" />
+        <mark key="^" line="15" column="19" />
       </file>
-      <file name="/fragment.py" timestamp="1571194373980">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/layers/detection_evaluate_layer.cpp" timestamp="1556075899045">
-        <mark key="'" line="233" column="65" />
-        <mark key="[" line="224" column="29" />
-        <mark key="]" line="224" column="26" />
-        <mark key="." line="224" column="26" />
-        <mark key="^" line="224" column="26" />
-      </file>
-      <file name="$USER_HOME$/Projects/caffe-q-ssd/include/caffe/util/bbox_util.hpp" timestamp="1557022774165">
-        <mark key="'" line="652" column="38" />
-        <mark key="[" line="626" column="19" />
-        <mark key="]" line="630" column="78" />
-        <mark key="." line="630" column="78" />
-        <mark key="^" line="630" column="78" />
-      </file>
-      <file name="$USER_HOME$/Projects/object_detection/include/ObjectDetector.hpp" timestamp="1575875570566">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/Projects/object_detection/include/ObjectDetector.hpp" timestamp="1575878553036">
+        <mark key="[" line="7" column="17" />
+        <mark key="]" line="8" column="15" />
+        <mark key="." line="8" column="15" />
+        <mark key="^" line="8" column="15" />
       </file>
       <file name="/" timestamp="1571137562538">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/False" timestamp="1571137561716">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" timestamp="1571281150072">
-        <mark key="'" line="564" column="21" />
-        <mark key="[" line="836" column="17" />
-        <mark key="]" line="836" column="17" />
-        <mark key="." line="836" column="17" />
-        <mark key="^" line="835" column="21" />
-      </file>
-      <file name="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/solver.cpp" timestamp="1557036350529">
-        <mark key="'" line="564" column="32" />
-        <mark key="[" line="550" column="22" />
-        <mark key="]" line="550" column="27" />
-        <mark key="." line="550" column="27" />
-        <mark key="^" line="550" column="27" />
-      </file>
-      <file name="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/test/test_model_libs.py" timestamp="1571194267419">
-        <mark key="[" line="72" column="11" />
-        <mark key="]" line="72" column="14" />
-        <mark key="^" line="72" column="14" />
-        <mark key="." line="72" column="14" />
-      </file>
-      <file name="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/proto/caffe.proto" timestamp="1571207455314">
-        <mark key="'" line="547" column="11" />
-        <mark key="[" line="1395" column="29" />
-        <mark key="]" line="1395" column="29" />
-        <mark key="." line="1395" column="29" />
-        <mark key="^" line="1395" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/object_detection/include/MNNObjectDetector.hpp" timestamp="1575873571786">
         <mark key="'" line="7" column="6" />
@@ -93,13 +124,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/layers/multibox_loss_layer.cpp" timestamp="1571283701339">
-        <mark key="'" line="187" column="43" />
-        <mark key="[" line="245" column="0" />
-        <mark key="]" line="245" column="23" />
-        <mark key="." line="245" column="0" />
-        <mark key="^" line="246" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/layers/annotated_data_layer.cpp" timestamp="1550564175464">
         <mark key="'" line="242" column="8" />
@@ -115,18 +139,8 @@
         <mark key="." line="3350" column="36" />
         <mark key="^" line="3350" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/data_scripts_and_docs/scripts/count_label_category_and_check_label.py" timestamp="1556517272349">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/net_spec.py" timestamp="1571134130291">
-        <mark key="'" line="243" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="1498" column="11" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/proto/caffe.proto" />
-      <jump line="1505" column="28" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/proto/caffe.proto" />
       <jump line="863" column="8" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
       <jump line="869" column="8" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
       <jump line="878" column="8" filename="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" />
@@ -225,13 +239,15 @@
       <jump line="3372" column="51" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/util/bbox_util.cpp" />
       <jump line="3347" column="5" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/util/bbox_util.cpp" />
       <jump line="7" column="6" filename="$USER_HOME$/Projects/object_detection/include/MNNObjectDetector.hpp" />
+      <jump line="14" column="5" filename="$USER_HOME$/Projects/object_detection/include/ObjectDetection.hpp" />
+      <jump line="34" column="12" filename="$USER_HOME$/Projects/object_detection/src/ObjectDetector.hpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">U0VUIChDTUFLRV9VU0VfUkVMQVRJVkVfUEFUSFMgT04pCg==</text>
       </register>
       <register name="-" type="4">
-        <text>MNN</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
         <text>Transform</text>
@@ -240,31 +256,31 @@
         <text>aspect_ratio=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">U0VUIChDTUFLRV9VU0VfUkVMQVRJVkVfUEFUSFMgT04pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAke0NNQUtFX0NVUlJFTlRfU09VUkNFX0RJUn0vc3JjCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAke0NNQUtFX0NVUlJFTlRfU09VUkNFX0RJUn0vaW5jbHVkZS9tbm4vaW1hZ2VIZWxwZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB2b2lkIFByZXByb2Nlc3MoY29uc3QgY3Y6Ok1hdCYgaW1nKTsK</text>
+        <text encoding="base64">ICAgICAgICAke0NNQUtFX0NVUlJFTlRfU09VUkNFX0RJUn0vaW5jbHVkZS9pbWFnZUhlbHBlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB2b2lkIFByZXByb2Nlc3MoY29uc3QgY3Y6Ok1hdCYgaW1nKTsK</text>
+        <text encoding="base64">ICAgICAgICAke0NNQUtFX0NVUlJFTlRfU09VUkNFX0RJUn0vaW5jbHVkZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyBkZXRlY3QgYSBzaW5nbGUgaW1hZ2UuCg==</text>
+        <text encoding="base64">ICAgICAgICAke0NNQUtFX0NVUlJFTlRfU09VUkNFX0RJUn0vaW5jbHVkZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvL0RldGVjdG9yKGNvbnN0IENsYXNzaWZpZXJQYXJhbWV0ZXImIGNsYXNzaWZpZXJfcGFyYW0pOwo=</text>
+        <text encoding="base64">Y21ha2VfbWluaW11bV9yZXF1aXJlZChWRVJTSU9OIDMuJDEzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmICgK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
