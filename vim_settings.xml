@@ -29,21 +29,20 @@
         <mark key="." line="32" column="14" />
         <mark key="^" line="32" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/object_detection/src/main.cpp" timestamp="1575959588820">
+      <file name="$USER_HOME$/Projects/object_detection/src/main.cpp" timestamp="1575961795457">
         <mark key="'" line="47" column="18" />
-        <mark key="[" line="76" column="8" />
-        <mark key="]" line="76" column="15" />
-        <mark key="." line="76" column="20" />
-        <mark key="^" line="76" column="15" />
+        <mark key="[" line="39" column="43" />
+        <mark key="]" line="39" column="43" />
+        <mark key="." line="39" column="43" />
+        <mark key="^" line="39" column="43" />
       </file>
       <file name="/False" timestamp="1571137561716">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/object_detection/CMakeLists.txt" timestamp="1575959728679">
-        <mark key="[" line="22" column="8" />
-        <mark key="]" line="22" column="8" />
-        <mark key="." line="22" column="8" />
-        <mark key="^" line="22" column="8" />
+      <file name="$USER_HOME$/Projects/object_detection/CMakeLists.txt" timestamp="1575961607084">
+        <mark key="[" line="20" column="12" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/object_detection/src/ObjectDetection.hpp" timestamp="1575959391419">
         <mark key="[" line="11" column="0" />
@@ -272,11 +271,11 @@
       <jump line="76" column="6" filename="$USER_HOME$/Projects/object_detection/src/ObjectDetector.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>input_img</text>
@@ -285,10 +284,10 @@
         <text encoding="base64">ICBhdXRvIHNpemUgPSBkZXRlY3Rpb25zLT5lbGVtZW50U2l6ZSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAke1BST0pFQ1RfU09VUkNFX0RJUn0vbGliL2xpYmpzb25jcHAuYQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -297,22 +296,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCBib29sIHVzZV92aWRlbyA9IGNvbmZpZ1sidXNlX3ZpZGVvIl0uYXNCb29sKCk7CiAgY3Y6OlZpZGVvQ2FwdHVyZSB2aWRlb19pbjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgKiBlbmdpbmUuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgKiBlbmdpbmUuCiAgICogQHBhcmFtIG1vZGVsX2ZpbGUgbmV0IG1vZGVsIGZpbGUuCg==</text>
+        <text encoding="base64">ICBjb25zdCBib29sIHVzZV92aWRlbyA9IGNvbmZpZ1sidXNlX3ZpZGVvIl0uYXNCb29sKCk7CiAgY3Y6OlZpZGVvQ2FwdHVyZSB2aWRlb19pbjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgKiBlbmdpbmUuCiAgICogQHBhcmFtIG1vZGVsX2ZpbGUgbmV0IG1vZGVsIGZpbGUuCg==</text>
+        <text encoding="base64">ICAgKiBlbmdpbmUuCg==</text>
       </register>
       <register name="x" type="4">
         <text>:</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gVE9ETzogTW9kaWZ5IHZhcmlhYmxlIG5hbWVzCg==</text>
+        <text encoding="base64">ICAgKiBlbmdpbmUuCiAgICogQHBhcmFtIG1vZGVsX2ZpbGUgbmV0IG1vZGVsIGZpbGUuCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/input_img/image/gc</text>
