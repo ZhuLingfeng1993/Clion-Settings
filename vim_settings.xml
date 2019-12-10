@@ -23,18 +23,18 @@
         <mark key="." line="630" column="78" />
         <mark key="^" line="630" column="78" />
       </file>
-      <file name="$USER_HOME$/Projects/object_detection/src/ObjectDetection.cpp" timestamp="1575940946277">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="32" column="27" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/Projects/object_detection/src/ObjectDetection.cpp" timestamp="1575942023394">
+        <mark key="[" line="28" column="24" />
+        <mark key="]" line="28" column="22" />
+        <mark key="^" line="28" column="22" />
+        <mark key="." line="28" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/object_detection/src/main.cpp" timestamp="1575941065155">
+      <file name="$USER_HOME$/Projects/object_detection/src/main.cpp" timestamp="1575942057651">
         <mark key="'" line="49" column="18" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="^" line="64" column="13" />
-        <mark key="." line="80" column="0" />
+        <mark key="[" line="60" column="51" />
+        <mark key="]" line="82" column="0" />
+        <mark key="^" line="66" column="13" />
+        <mark key="." line="82" column="0" />
       </file>
       <file name="/False" timestamp="1571137561716">
         <mark key="[" line="0" column="0" />
@@ -45,10 +45,10 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="21" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/object_detection/src/ObjectDetection.hpp" timestamp="1575940840095">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/Projects/object_detection/src/ObjectDetection.hpp" timestamp="1575941519328">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/caffe-q-ssd/examples/ssd/gen.py" timestamp="1571281150072">
         <mark key="'" line="564" column="21" />
@@ -64,12 +64,12 @@
         <mark key="." line="550" column="27" />
         <mark key="^" line="550" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/object_detection/src/ObjectDetector.hpp" timestamp="1575910686254">
-        <mark key="'" line="37" column="12" />
-        <mark key="[" line="34" column="38" />
-        <mark key="]" line="35" column="1" />
-        <mark key="." line="35" column="1" />
-        <mark key="^" line="35" column="1" />
+      <file name="$USER_HOME$/Projects/object_detection/src/ObjectDetector.hpp" timestamp="1575941853119">
+        <mark key="'" line="38" column="12" />
+        <mark key="[" line="18" column="8" />
+        <mark key="]" line="36" column="1" />
+        <mark key="." line="36" column="1" />
+        <mark key="^" line="36" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/test/test_model_libs.py" timestamp="1571194267419">
         <mark key="[" line="72" column="11" />
@@ -91,13 +91,13 @@
         <mark key="." line="245" column="0" />
         <mark key="^" line="246" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/object_detection/src/ObjectDetector.cpp" timestamp="1575910627548">
-        <mark key="[" line="25" column="20" />
-        <mark key="]" line="67" column="21" />
+      <file name="$USER_HOME$/Projects/object_detection/src/ObjectDetector.cpp" timestamp="1575941878057">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
         <mark key="^" line="67" column="21" />
-        <mark key="." line="67" column="21" />
+        <mark key="." line="70" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1575909695882">
+      <file name="/Dummy.txt" timestamp="1575941270886">
         <mark key="u" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="60" />
@@ -139,7 +139,7 @@
       <file name="/" timestamp="1571137562538">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.mm" timestamp="1575909726301">
+      <file name="/fragment.mm" timestamp="1575941273807">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
@@ -270,11 +270,11 @@
       <jump line="31" column="18" filename="$USER_HOME$/Projects/object_detection/src/main.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>use_video_</text>
@@ -283,34 +283,34 @@
         <text encoding="base64">ICBjdjo6TWF0IGNhbWVyYV9pbWc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBPYnNlcnZhdGlvbiBtb2RlLgogIGlmIChjb25maWdfWyJlbnRlcl9rZXlfdG9fY29udGludWUiXS5hc0Jvb2woKSkgewogICAgc3RkOjpzdHJpbmcga2V5ID0gY29uZmlnX1sia2V5X29mX2NvbnRpbnVlIl0uYXNTdHJpbmcoKTsKICAgIHN0ZDo6c3RyaW5nIGlucHV0OwogICAgd2hpbGUgKHRydWUpIHsKICAgICAgc3RkOjpjb3V0IDw8CiAgICAgICAgICAiIyMjIyBPYnNlcnZhdGlvbiBtb2RlOiBFbnRlciAiIDw8IGtleSA8PCAiIHRvIGNvbnRpbnVlLiAjIyMjXG4iOwogICAgICBzdGQ6OmNpbiA+PiBpbnB1dDsKICAgICAgaWYgKGtleSA9PSBpbnB1dCkKICAgICAgICBicmVhazsKICAgIH0KICB9CgogIGlmICh1c2VfdmlkZW9fKSB7CiAgICB2aWRlb19pbl8gPj4gY2FtZXJhX2ltZzsKICB9CiAgY3Y6Ok1hdCBvZF9jcm9wX2ltZyA9IGN2OjpNYXQoY2FtZXJhX2ltZywgY3JvcF9yb2lfKTsK</text>
+        <text encoding="base64">T2JqZWN0RGV0ZWN0b3I6Ok9iamVjdERldGVjdG9yKCkge30K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyBPYnNlcnZhdGlvbiBtb2RlLgogIGlmIChjb25maWdfWyJlbnRlcl9rZXlfdG9fY29udGludWUiXS5hc0Jvb2woKSkgewogICAgc3RkOjpzdHJpbmcga2V5ID0gY29uZmlnX1sia2V5X29mX2NvbnRpbnVlIl0uYXNTdHJpbmcoKTsKICAgIHN0ZDo6c3RyaW5nIGlucHV0OwogICAgd2hpbGUgKHRydWUpIHsKICAgICAgc3RkOjpjb3V0IDw8CiAgICAgICAgICAiIyMjIyBPYnNlcnZhdGlvbiBtb2RlOiBFbnRlciAiIDw8IGtleSA8PCAiIHRvIGNvbnRpbnVlLiAjIyMjXG4iOwogICAgICBzdGQ6OmNpbiA+PiBpbnB1dDsKICAgICAgaWYgKGtleSA9PSBpbnB1dCkKICAgICAgICBicmVhazsKICAgIH0KICB9CgogIGlmICh1c2VfdmlkZW9fKSB7CiAgICB2aWRlb19pbl8gPj4gY2FtZXJhX2ltZzsKICB9CiAgY3Y6Ok1hdCBvZF9jcm9wX2ltZyA9IGN2OjpNYXQoY2FtZXJhX2ltZywgY3JvcF9yb2lfKTsK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y3Y6OlJlY3QgR2V0Um9JKGNvbnN0IEpzb246OlZhbHVlJiBjcm9wX3JvaSwgY29uc3QgY3Y6Ok1hdCYgaW1hZ2UpIHsKICBpbnQgY3JvcF94ID0gMCwgY3JvcF95ID0gMDsKICBpbnQgY3JvcF93ID0gMCwgY3JvcF9oID0gMDsKICBDSEVDS19FUShjcm9wX3JvaS5zaXplKCksIDQpIDw8ICJDb25maWcgb2RfY3JvcCBzaXplIGVycm9yISI7CiAgY3JvcF94ID0gY3JvcF9yb2lbMF0uYXNJbnQoKTsKICBjcm9wX3kgPSBjcm9wX3JvaVsxXS5hc0ludCgpOwogIGNyb3BfdyA9IGNyb3BfeCArIGNyb3Bfcm9pWzJdLmFzSW50KCk7CiAgY3JvcF9oID0gY3JvcF95ICsgY3JvcF9yb2lbM10uYXNJbnQoKTsKICBDSEVDS19HRShjcm9wX3gsIDApOwogIENIRUNLX0dFKGNyb3BfeSwgMCk7CiAgQ0hFQ0tfTFQoY3JvcF93LCBpbWFnZS5jb2xzKTsKICBDSEVDS19MVChjcm9wX2gsIGltYWdlLnJvd3MpOwogIHJldHVybiBjdjo6UmVjdChjcm9wX3gsIGNyb3BfeSwgY3JvcF93LCBjcm9wX2gpOwp9Cgo=</text>
+        <text encoding="base64">ICBPYmplY3REZXRlY3RvciBkZXRlY3Rvcl87Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjdjo6UmVjdCBjcm9wX3JvaV87Cg==</text>
+        <text encoding="base64">ICBjdjo6TWF0IGltYWdlXzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjdjo6TWF0IGNhbWVyYV9pbWc7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCBib29sIHVzZV92aWRlb187Cg==</text>
+        <text encoding="base64">ICAvLyBPYnNlcnZhdGlvbiBtb2RlLgogIGlmIChjb25maWdfWyJlbnRlcl9rZXlfdG9fY29udGludWUiXS5hc0Jvb2woKSkgewogICAgc3RkOjpzdHJpbmcga2V5ID0gY29uZmlnX1sia2V5X29mX2NvbnRpbnVlIl0uYXNTdHJpbmcoKTsKICAgIHN0ZDo6c3RyaW5nIGlucHV0OwogICAgd2hpbGUgKHRydWUpIHsKICAgICAgc3RkOjpjb3V0IDw8CiAgICAgICAgICAiIyMjIyBPYnNlcnZhdGlvbiBtb2RlOiBFbnRlciAiIDw8IGtleSA8PCAiIHRvIGNvbnRpbnVlLiAjIyMjXG4iOwogICAgICBzdGQ6OmNpbiA+PiBpbnB1dDsKICAgICAgaWYgKGtleSA9PSBpbnB1dCkKICAgICAgICBicmVhazsKICAgIH0KICB9CgogIGlmICh1c2VfdmlkZW9fKSB7CiAgICB2aWRlb19pbl8gPj4gY2FtZXJhX2ltZzsKICB9CiAgY3Y6Ok1hdCBvZF9jcm9wX2ltZyA9IGN2OjpNYXQoY2FtZXJhX2ltZywgY3JvcF9yb2lfKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCBib29sIHVzZV92aWRlb187CiAgY3Y6OlZpZGVvQ2FwdHVyZSB2aWRlb19pbl87Cg==</text>
+        <text encoding="base64">ICAvLyBPYnNlcnZhdGlvbiBtb2RlLgogIGlmIChjb25maWdfWyJlbnRlcl9rZXlfdG9fY29udGludWUiXS5hc0Jvb2woKSkgewogICAgc3RkOjpzdHJpbmcga2V5ID0gY29uZmlnX1sia2V5X29mX2NvbnRpbnVlIl0uYXNTdHJpbmcoKTsKICAgIHN0ZDo6c3RyaW5nIGlucHV0OwogICAgd2hpbGUgKHRydWUpIHsKICAgICAgc3RkOjpjb3V0IDw8CiAgICAgICAgICAiIyMjIyBPYnNlcnZhdGlvbiBtb2RlOiBFbnRlciAiIDw8IGtleSA8PCAiIHRvIGNvbnRpbnVlLiAjIyMjXG4iOwogICAgICBzdGQ6OmNpbiA+PiBpbnB1dDsKICAgICAgaWYgKGtleSA9PSBpbnB1dCkKICAgICAgICBicmVhazsKICAgIH0KICB9CgogIGlmICh1c2VfdmlkZW9fKSB7CiAgICB2aWRlb19pbl8gPj4gY2FtZXJhX2ltZzsKICB9CiAgY3Y6Ok1hdCBvZF9jcm9wX2ltZyA9IGN2OjpNYXQoY2FtZXJhX2ltZywgY3JvcF9yb2lfKTsK</text>
       </register>
       <register name="x" type="4">
         <text>:</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y3Y6OlJlY3QgR2V0Um9JKGNvbnN0IEpzb246OlZhbHVlJiBjcm9wX3JvaSwgY29uc3QgY3Y6Ok1hdCYgaW1hZ2UpIHsKICBpbnQgY3JvcF94ID0gMCwgY3JvcF95ID0gMDsKICBpbnQgY3JvcF93ID0gMCwgY3JvcF9oID0gMDsKICBDSEVDS19FUShjcm9wX3JvaS5zaXplKCksIDQpIDw8ICJDb25maWcgb2RfY3JvcCBzaXplIGVycm9yISI7CiAgY3JvcF94ID0gY3JvcF9yb2lbMF0uYXNJbnQoKTsKICBjcm9wX3kgPSBjcm9wX3JvaVsxXS5hc0ludCgpOwogIGNyb3BfdyA9IGNyb3BfeCArIGNyb3Bfcm9pWzJdLmFzSW50KCk7CiAgY3JvcF9oID0gY3JvcF95ICsgY3JvcF9yb2lbM10uYXNJbnQoKTsKICBDSEVDS19HRShjcm9wX3gsIDApOwogIENIRUNLX0dFKGNyb3BfeSwgMCk7CiAgQ0hFQ0tfTFQoY3JvcF93LCBpbWFnZS5jb2xzKTsKICBDSEVDS19MVChjcm9wX2gsIGltYWdlLnJvd3MpOwogIHJldHVybiBjdjo6UmVjdChjcm9wX3gsIGNyb3BfeSwgY3JvcF93LCBjcm9wX2gpOwp9Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/use_video_/use_video/gc</text>
