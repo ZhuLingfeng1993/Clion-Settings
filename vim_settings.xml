@@ -28,12 +28,12 @@
         <mark key="]" line="26" column="18" />
         <mark key="." line="26" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/object_detection/src/main.cpp" timestamp="1575966856398">
+      <file name="$USER_HOME$/Projects/object_detection/src/main.cpp" timestamp="1575968706030">
         <mark key="'" line="47" column="18" />
-        <mark key="[" line="101" column="26" />
-        <mark key="]" line="101" column="26" />
-        <mark key="." line="101" column="26" />
-        <mark key="^" line="100" column="22" />
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
+        <mark key="^" line="102" column="54" />
       </file>
       <file name="/False" timestamp="1571137561716">
         <mark key="[" line="0" column="0" />
@@ -277,11 +277,11 @@
       <jump line="76" column="6" filename="$USER_HOME$/Projects/object_detection/src/ObjectDetector.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>temp</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNhbWVyYV9pbWcoY3JvcF9yb2kpLmNvcHlUbyhvZF9jcm9wX2ltZyk7CiAgICBjYW1lcmFfaW1nKGNyb3Bfcm9pKS5jb252ZXJ0VG8ob2RfY3JvcF9pbWcsIGNhbWVyYV9pbWcudHlwZSgpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>temp</text>
+        <text>camera_img</text>
       </register>
       <register name="/" type="4">
         <text>input_img</text>
@@ -290,34 +290,34 @@
         <text encoding="base64">ICAgICAgY3Y6Om5hbWVkV2luZG93KCJjYW1lcmEgaW1nIiwgY3Y6OldJTkRPV19OT1JNQUwpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG9kX2Nyb3BfaW1nLmNvcHlUbygpCg==</text>
+        <text encoding="base64">ICAgIGNhbWVyYV9pbWcoY3JvcF9yb2kpLmNvcHlUbyhvZF9jcm9wX2ltZyk7CiAgICBjYW1lcmFfaW1nKGNyb3Bfcm9pKS5jb252ZXJ0VG8ob2RfY3JvcF9pbWcsIGNhbWVyYV9pbWcudHlwZSgpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGN2OjpNYXQgb2RfY3JvcF9pbWc7CiAgICBjYW1lcmFfaW1nKGNyb3Bfcm9pKS5jb3B5VG8ob2RfY3JvcF9pbWcpOwogICAgY2FtZXJhX2ltZyhjcm9wX3JvaSkuY29udmVydFRvKG9kX2Nyb3BfaW1nLCBjYW1lcmFfaW1nLnR5cGUoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9kX2Nyb3BfaW1nLmNvcHlUbygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNyb3BfaW1nID0gY3Y6Ok1hdChjLCBjcm9wX3JvaSk7CiAgICBpbnB1dF9pbWcgPSBvcmlnaW5faW1nLmNsb25lKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBETE9HKElORk8pIDw8ICJkZXRlY3Rpb25zIHNoYXBlOiAiIDw8IGRldGVjdGlvbnMtPmVsZW1lbnRTaXplKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnRpbnVlOwo=</text>
+        <text encoding="base64">ICAgIGNyb3BfaW1nID0gY3Y6Ok1hdChjLCBjcm9wX3JvaSk7CiAgICBpbnB1dF9pbWcgPSBvcmlnaW5faW1nLmNsb25lKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">a2sK</text>
+        <text encoding="base64">ICBETE9HKElORk8pIDw8ICJkZXRlY3Rpb25zIHNoYXBlOiAiIDw8IGRldGVjdGlvbnMtPmVsZW1lbnRTaXplKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBETE9HKElORk8pIDw8ICJEZXRlY3QiCg==</text>
+        <text encoding="base64">ICAgIGNvbnRpbnVlOwo=</text>
       </register>
       <register name="x" type="4">
         <text>:</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY3Y6Omltc2hvdygib3JpZ2luIGltYWdlIiwgY2FtZXJhX2ltZyk7CiAgICAgIGN2Ojp3YWl0S2V5KDApOwo=</text>
+        <text encoding="base64">a2sK</text>
       </register>
       <register name=":" type="4">
         <text>%s/input_img/image/gc</text>
