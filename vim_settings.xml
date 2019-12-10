@@ -64,12 +64,11 @@
         <mark key="." line="550" column="27" />
         <mark key="^" line="550" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/object_detection/src/ObjectDetector.hpp" timestamp="1575978591164">
-        <mark key="'" line="58" column="12" />
-        <mark key="[" line="49" column="9" />
-        <mark key="]" line="40" column="34" />
-        <mark key="^" line="40" column="34" />
-        <mark key="." line="40" column="34" />
+      <file name="$USER_HOME$/Projects/object_detection/src/ObjectDetector.hpp" timestamp="1575980533069">
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/caffe-q-ssd/python/caffe/test/test_model_libs.py" timestamp="1571194267419">
         <mark key="[" line="72" column="11" />
@@ -91,14 +90,14 @@
         <mark key="." line="245" column="0" />
         <mark key="^" line="246" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/object_detection/src/ObjectDetector.cpp" timestamp="1575966125395">
-        <mark key="'" line="84" column="6" />
-        <mark key="[" line="35" column="29" />
-        <mark key="]" line="35" column="29" />
-        <mark key="." line="35" column="29" />
-        <mark key="^" line="35" column="29" />
+      <file name="$USER_HOME$/Projects/object_detection/src/ObjectDetector.cpp" timestamp="1575982273591">
+        <mark key="'" line="90" column="6" />
+        <mark key="[" line="53" column="13" />
+        <mark key="]" line="53" column="12" />
+        <mark key="." line="53" column="12" />
+        <mark key="^" line="53" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1575965164544">
+      <file name="/Dummy.txt" timestamp="1575982231194">
         <mark key="u" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="60" />
@@ -140,11 +139,11 @@
       <file name="/" timestamp="1571137562538">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.mm" timestamp="1575965170082">
+      <file name="/fragment.mm" timestamp="1575982240366">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="28" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+        <mark key="." line="0" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/object_detection/include/MNNObjectDetector.hpp" timestamp="1575873571786">
         <mark key="'" line="7" column="6" />
@@ -167,15 +166,14 @@
         <mark key="." line="3350" column="36" />
         <mark key="^" line="3350" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/object_detection/config.json" timestamp="1575978362488">
-        <mark key="[" line="23" column="2" />
-        <mark key="]" line="4" column="35" />
-        <mark key="^" line="4" column="35" />
-        <mark key="." line="4" column="35" />
+      <file name="$USER_HOME$/Projects/object_detection/config.json" timestamp="1575981930570">
+        <mark key="[" line="32" column="19" />
+        <mark key="]" line="32" column="43" />
+        <mark key="^" line="32" column="43" />
+        <mark key="." line="32" column="43" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="336" column="17" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/proto/caffe.proto" />
       <jump line="337" column="9" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/proto/caffe.proto" />
       <jump line="404" column="64" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/proto/caffe.proto" />
       <jump line="1075" column="59" filename="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/proto/caffe.proto" />
@@ -275,49 +273,50 @@
       <jump line="40" column="42" filename="$USER_HOME$/Projects/object_detection/src/ObjectDetector.cpp" />
       <jump line="66" column="30" filename="$USER_HOME$/Projects/object_detection/src/ObjectDetector.cpp" />
       <jump line="76" column="6" filename="$USER_HOME$/Projects/object_detection/src/ObjectDetector.cpp" />
+      <jump line="48" column="0" filename="$USER_HOME$/Projects/object_detection/src/ObjectDetector.hpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIGNhbWVyYV9pbWcgPSBjdjo6TWF0KGNhbWVyYV9pbWcsIGNyb3Bfcm9pKTsKICAgIC8vIGN2OjpNYXQgb2RfY3JvcF9pbWcgPSBjYW1lcmFfaW1nLmNsb25lKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>camera_img</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>input_img</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY3Y6Om5hbWVkV2luZG93KCJjYW1lcmEgaW1nIiwgY3Y6OldJTkRPV19OT1JNQUwpOwo=</text>
+      <register name="0" type="4">
+        <text>keep the the shape of re-sized input of net fixed</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIGNhbWVyYV9pbWcgPSBjdjo6TWF0KGNhbWVyYV9pbWcsIGNyb3Bfcm9pKTsKICAgIC8vIGN2OjpNYXQgb2RfY3JvcF9pbWcgPSBjYW1lcmFfaW1nLmNsb25lKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNhbWVyYV9pbWcoY3JvcF9yb2kpLmNvcHlUbyhvZF9jcm9wX2ltZyk7CiAgICBjYW1lcmFfaW1nKGNyb3Bfcm9pKS5jb252ZXJ0VG8ob2RfY3JvcF9pbWcsIGNhbWVyYV9pbWcudHlwZSgpKTsK</text>
+        <text encoding="base64">ICBzY2hlZHVsZV9jb25maWcuc2F2ZVRlbnNvcnMuZW1wbGFjZV9iYWNrKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGN2OjpNYXQgb2RfY3JvcF9pbWc7CiAgICBjYW1lcmFfaW1nKGNyb3Bfcm9pKS5jb3B5VG8ob2RfY3JvcF9pbWcpOwogICAgY2FtZXJhX2ltZyhjcm9wX3JvaSkuY29udmVydFRvKG9kX2Nyb3BfaW1nLCBjYW1lcmFfaW1nLnR5cGUoKSk7Cg==</text>
+        <text encoding="base64">ICBMT0coSU5GTykgPDwgIlNhdmUgdGVuc29yczogIiA8PCBzY2hlZHVsZV9jb25maWcuc2F2ZVRlbnNvcnNbMF0uY19zdHIoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG9kX2Nyb3BfaW1nLmNvcHlUbygpCg==</text>
+        <text encoding="base64">ICBhdXRvIG91dHB1dHMgPSBuZXRfLT5nZXRTZXNzaW9uT3V0cHV0QWxsKHNlc3Npb25fKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBMT0coSU5GTykgPDwgIlNhdmUgdGVuc29yczogIjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIExPRyhJTkZPKSA8PCAiIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNyb3BfaW1nID0gY3Y6Ok1hdChjLCBjcm9wX3JvaSk7CiAgICBpbnB1dF9pbWcgPSBvcmlnaW5faW1nLmNsb25lKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBETE9HKElORk8pIDw8ICJkZXRlY3Rpb25zIHNoYXBlOiAiIDw8IGRldGVjdGlvbnMtPmVsZW1lbnRTaXplKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>:</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnRpbnVlOwo=</text>
+        <text encoding="base64">I2luY2x1ZGUgPGdsb2cvbG9nZ2luZy5oPgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/input_img/image/gc</text>
