@@ -154,6 +154,9 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/clion64.vmoptions" timestamp="1576044422397">
+        <mark key="[" line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/caffe-q-ssd/src/caffe/layers/annotated_data_layer.cpp" timestamp="1550564175464">
         <mark key="'" line="242" column="8" />
         <mark key="[" line="319" column="13" />
