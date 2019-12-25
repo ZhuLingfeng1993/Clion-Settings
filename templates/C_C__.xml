@@ -1,5 +1,5 @@
 <templateSet group="C/C++">
-  <template name="/*&lt;" value="/**&lt; $COMMENT$ */" description="doxygen comment for member of parameter" toReformat="false" toShortenFQNames="true">
+  <template name="/&lt;" value="/**&lt; $COMMENT$ */" description="doxygen comment for member of parameter" toReformat="false" toShortenFQNames="true">
     <variable name="COMMENT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="cpp" value="true" />
@@ -9,6 +9,13 @@
     <variable name="FORMULA" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="/*" value="/** $COMMENT$ **/&#10;" description="multi-line comment in one line" toReformat="false" toShortenFQNames="true">
+    <variable name="COMMENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="c" value="true" />
+      <option name="cpp" value="true" />
     </context>
   </template>
 </templateSet>
