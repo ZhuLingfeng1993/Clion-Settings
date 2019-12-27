@@ -8,6 +8,7 @@
   <option name="RIGHT_MARGIN" value="80" />
   <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <MarkdownNavigatorCodeStyleSettings>
+    <option name="WRAP_ON_TYPING" value="1" />
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
   <Objective-C>
