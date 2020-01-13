@@ -11,7 +11,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="/*" value="/** $COMMENT$ **/&#10;" description="multi-line comment in one line" toReformat="false" toShortenFQNames="true">
+  <template name="/*" value="/** $COMMENT$ **/" description="multi-line comment in one line" toReformat="false" toShortenFQNames="true">
     <variable name="COMMENT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="c" value="true" />
