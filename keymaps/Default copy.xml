@@ -12,6 +12,9 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="shift ctrl alt p" />
   </action>
+  <action id="CMake.ReloadCMakeProject">
+    <keyboard-shortcut first-keystroke="shift ctrl alt r" />
+  </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="ctrl space" />
     <keyboard-shortcut first-keystroke="shift ctrl caps_lock" />
