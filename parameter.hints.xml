@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="C/C++">
+        <added pattern="cv::Mat::Mat(_rows,_cols,_type,_data,_step)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
