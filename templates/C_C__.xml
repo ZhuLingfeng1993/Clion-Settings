@@ -18,4 +18,10 @@
       <option name="cpp" value="true" />
     </context>
   </template>
+  <template name="try_catch" value="try {&#10; $COMMNET$&#10;} catch (std::exception&amp; e) {&#10;  LOG(INFO) &lt;&lt; e.what();&#10;}" toReformat="false" toShortenFQNames="true">
+    <variable name="COMMNET" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="cpp" value="true" />
+    </context>
+  </template>
 </templateSet>
