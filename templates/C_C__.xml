@@ -1,17 +1,17 @@
 <templateSet group="C/C++">
-  <template name="/&lt;" value="/**&lt; $COMMENT$ */" description="doxygen comment for member of parameter" toReformat="false" toShortenFQNames="true">
+  <template name="/&lt;" value="/**&lt; $COMMENT$ */" description="doxygen comment for member of parameter" toReformat="true" toShortenFQNames="true">
     <variable name="COMMENT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="cpp" value="true" />
     </context>
   </template>
-  <template name="@f" value="@f$ $FORMULA$ @f$" description="doxygen fomula" toReformat="false" toShortenFQNames="true">
+  <template name="@f" value="@f$ $FORMULA$ @f$" description="doxygen fomula" toReformat="true" toShortenFQNames="true">
     <variable name="FORMULA" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="/*" value="/** $COMMENT$ **/" description="multi-line comment in one line" toReformat="false" toShortenFQNames="true">
+  <template name="/*" value="/** $COMMENT$ **/" description="multi-line comment in one line" toReformat="true" toShortenFQNames="true">
     <variable name="COMMENT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="c" value="true" />
@@ -20,6 +20,13 @@
   </template>
   <template name="try_catch" value="try {&#10; $COMMNET$&#10;} catch (std::exception&amp; e) {&#10;  LOG(INFO) &lt;&lt; e.what();&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <variable name="COMMNET" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="cpp" value="true" />
+    </context>
+  </template>
+  <template name="testf" value="TEST_F($FixtureSuiteName$, $TestName$) {&#10;$END$&#10;}&#10;" description="google test fixture" toReformat="true" toShortenFQNames="true">
+    <variable name="FixtureSuiteName" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TestName" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="cpp" value="true" />
     </context>
