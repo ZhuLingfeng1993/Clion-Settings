@@ -31,4 +31,15 @@
       <option name="cpp" value="true" />
     </context>
   </template>
+  <template name="switch" value="switch ($CONDITION$) {&#10;  case $CASE1$:&#10;    $DO1$&#10;    break;&#10;  case $CASE2$:&#10;    $DO2$&#10;    break;&#10;  default: $DEFAULT$&#10;}" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CASE1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DO1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CASE2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DO2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DEFAULT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="cpp" value="true" />
+    </context>
+  </template>
 </templateSet>
