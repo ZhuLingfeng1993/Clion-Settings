@@ -1,14 +1,14 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="hw04-1" type="PLAIN_TEXT" />
       <mapping pattern="MyRectangleh" type="PLAIN_TEXT" />
+      <mapping pattern="hw04-1" type="PLAIN_TEXT" />
       <mapping pattern="MyRectanglec" type="PLAIN_TEXT" />
       <mapping pattern="h2" type="PLAIN_TEXT" />
       <mapping pattern="Screenc" type="PLAIN_TEXT" />
-      <mapping ext="hhh" type="PLAIN_TEXT" />
-      <mapping ext="data" type="PLAIN_TEXT" />
       <mapping ext="ccc" type="PLAIN_TEXT" />
+      <mapping ext="data" type="PLAIN_TEXT" />
+      <mapping ext="hhh" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
