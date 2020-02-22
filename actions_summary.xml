@@ -2,11 +2,19 @@
   <component name="ActionsLocalSummary">
     <option name="data">
       <map>
+        <entry key="$Undo">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582364592528" />
+              <option name="times" value="8" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="About">
           <value>
             <ActionSummary>
-              <option name="last" value="1582125773002" />
-              <option name="times" value="2" />
+              <option name="last" value="1582364482920" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -21,8 +29,8 @@
         <entry key="ActivateCommitToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1582125681516" />
-              <option name="times" value="9" />
+              <option name="last" value="1582364704075" />
+              <option name="times" value="13" />
             </ActionSummary>
           </value>
         </entry>
@@ -58,6 +66,22 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="CheckinFiles">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582364701653" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="CheckinProject">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582364705926" />
+              <option name="times" value="7" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="CreateLauncherScript">
           <value>
             <ActionSummary>
@@ -66,26 +90,82 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="EditCustomProperties">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582364439501" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="EditCustomVmOptions">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582364475870" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582125942507" />
-              <option name="times" value="13" />
+              <option name="last" value="1582364677247" />
+              <option name="times" value="20" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="EditorCopy">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582364682447" />
+              <option name="times" value="12" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="EditorDown">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582364595766" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="EditorPaste">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582364684087" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="QuickJavaDoc">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582364816619" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="ShowSettings">
           <value>
             <ActionSummary>
-              <option name="last" value="1582125791444" />
-              <option name="times" value="1" />
+              <option name="last" value="1582364792452" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.ide.ReopenProjectAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582125534056" />
+              <option name="last" value="1582364300413" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582364793829" />
               <option name="times" value="1" />
             </ActionSummary>
           </value>
@@ -119,6 +199,14 @@
             <ActionSummary>
               <option name="last" value="1582125632056" />
               <option name="times" value="6" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="performancePlugin.ShowMemoryDialogAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582364494388" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
