@@ -2,4 +2,7 @@
   <component name="GeneralSettings">
     <option name="reopenLastProject" value="false" />
   </component>
+  <component name="Registry">
+    <entry key="cidr.max.intellisense.file.length" value="5000000" />
+  </component>
 </application>
