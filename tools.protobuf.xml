@@ -1,0 +1,9 @@
+<application>
+  <component name="ProtobufSettings">
+    <option name="includePaths">
+      <list>
+        <option value="$USER_HOME$/Projects/caffe-q-ssd/jobs/local_MobileNet/example_qua_dataset/check_net_FSSD_300x300/model" />
+      </list>
+    </option>
+  </component>
+</application>
